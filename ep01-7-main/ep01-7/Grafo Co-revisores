@@ -1,0 +1,25 @@
+graph {
+	graph [label=""]
+	size="100,100"
+	rankdir=LR
+	subgraph main {
+		color=black label=Grafo
+		"2WnXYQFK0hXEoTxPtV2zvg" [label=Steph fillcolor="/paired12/1" shape=box style=filled]
+		qVc8ODYU5SZjKXVBgXdI7w [label=Walker fillcolor="/paired12/1" shape=box style=filled]
+		xoZvMJPDW6Q9pDAXI0e_Ww [label=Ryan fillcolor="/paired12/1" shape=box style=filled]
+		"MGPQVLsODMm9ZtYQW-g_OA" [label=Jelena fillcolor="/paired12/1" shape=box style=filled]
+		SZDeASXq7o05mMNLshsdIA [label=Gwen fillcolor="/paired12/1" shape=box style=filled]
+		SgiBkhXeqIKl1PlFpZOycQ [label=Eugene fillcolor="/paired12/1" shape=box style=filled]
+		"1L3O2CUTk27SnmqyPBWQdQ" [label=Helen fillcolor="/paired12/1" shape=box style=filled]
+		"j14WgRoU_-2ZE1aw1dXrJg" [label=Daniel fillcolor="/paired12/1" shape=box style=filled]
+		"2WnXYQFK0hXEoTxPtV2zvg" -- qVc8ODYU5SZjKXVBgXdI7w [label="Atlantis Casino Resort Spa"]
+		"2WnXYQFK0hXEoTxPtV2zvg" -- xoZvMJPDW6Q9pDAXI0e_Ww [label="Atlantis Casino Resort Spa"]
+		qVc8ODYU5SZjKXVBgXdI7w -- xoZvMJPDW6Q9pDAXI0e_Ww [label="Atlantis Casino Resort Spa"]
+		"MGPQVLsODMm9ZtYQW-g_OA" -- SgiBkhXeqIKl1PlFpZOycQ [label="Acme Oyster House"]
+		"MGPQVLsODMm9ZtYQW-g_OA" -- "j14WgRoU_-2ZE1aw1dXrJg" [label="Acme Oyster House"]
+		SZDeASXq7o05mMNLshsdIA -- SgiBkhXeqIKl1PlFpZOycQ [label="Mother's Restaurant"]
+		SZDeASXq7o05mMNLshsdIA -- "1L3O2CUTk27SnmqyPBWQdQ" [label="Mother's Restaurant"]
+		SgiBkhXeqIKl1PlFpZOycQ -- "j14WgRoU_-2ZE1aw1dXrJg" [label="Acme Oyster House"]
+		SgiBkhXeqIKl1PlFpZOycQ -- "1L3O2CUTk27SnmqyPBWQdQ" [label="Mother's Restaurant"]
+	}
+}

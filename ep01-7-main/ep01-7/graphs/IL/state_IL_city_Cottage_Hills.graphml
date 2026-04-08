@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="jdYcYtelx5akXrVJ_kVCJQ">
+  <data key="type">business</data>
+  <data key="business_id">jdYcYtelx5akXrVJ_kVCJQ</data>
+  <data key="name">Doc Holliday's Saloon &amp; Steakery</data>
+  <data key="address">308 W MacArthur</data>
+  <data key="city">Cottage Hills</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62018</data>
+  <data key="latitude">38.9031204</data>
+  <data key="longitude">-90.0742752</data>
+  <data key="stars">2.5</data>
+  <data key="review_count">15</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'Caters': 'False', 'RestaurantsReservations': 'True', 'HasTV': 'True', 'RestaurantsGoodForGroups': 'True', 'RestaurantsAttire': "u'casual'", 'RestaurantsPriceRange2': '2', 'Ambience': "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'OutdoorSeating': 'True', 'BikeParking': 'True', 'RestaurantsDelivery': 'False', 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': False, 'video': False, 'karaoke': False}", 'WiFi': "u'free'", 'RestaurantsTakeOut': 'True', 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}", 'GoodForKids': 'False', 'Alcohol': "u'full_bar'", 'NoiseLevel': "u'loud'", 'GoodForDancing': 'True', 'BusinessAcceptsCreditCards': 'True', 'BestNights': "{'monday': False, 'tuesday': False, 'friday': False, 'wednesday': False, 'thursday': False, 'sunday': False, 'saturday': False}"}</data>
+  <data key="categories">Bars, Nightlife, Restaurants, American (Traditional), Cocktail Bars</data>
+  <data key="hours">{'Monday': '11:0-2:0', 'Tuesday': '11:0-2:0', 'Wednesday': '11:0-2:0', 'Thursday': '11:0-2:0', 'Friday': '11:0-2:0', 'Saturday': '11:0-3:0', 'Sunday': '10:0-2:0'}</data>
+  <data key="label">Doc Holliday's Saloon &amp; Steakery</data>
+</node>
+<node id="_-AIbZSkfTFtgn_kKsk7Xw">
+  <data key="type">business</data>
+  <data key="business_id">_-AIbZSkfTFtgn_kKsk7Xw</data>
+  <data key="name">Schlemer's Lounge</data>
+  <data key="address">109 W MacArthur Dr</data>
+  <data key="city">Cottage Hills</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62018</data>
+  <data key="latitude">38.9035307</data>
+  <data key="longitude">-90.0706255</data>
+  <data key="stars">2.5</data>
+  <data key="review_count">5</data>
+  <data key="is_open">1</data>
+  <data key="attributes" />
+  <data key="categories">Bars, Dance Clubs, Nightlife, Lounges</data>
+  <data key="hours" />
+  <data key="label">Schlemer's Lounge</data>
+</node>
+<node id="lkg7QOitJEu3c5-8nbGGhA">
+  <data key="type">business</data>
+  <data key="business_id">lkg7QOitJEu3c5-8nbGGhA</data>
+  <data key="name">The Pork Barrel</data>
+  <data key="address">435 W MacArthur Dr</data>
+  <data key="city">Cottage Hills</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62018</data>
+  <data key="latitude">38.9041714</data>
+  <data key="longitude">-90.0765752</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">10</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'BusinessAcceptsCreditCards': 'True', 'GoodForKids': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsTakeOut': 'True', 'NoiseLevel': "u'average'", 'RestaurantsGoodForGroups': 'True', 'RestaurantsPriceRange2': '1', 'RestaurantsAttire': "'casual'", 'Alcohol': "u'none'"}</data>
+  <data key="categories">Barbeque, Specialty Food, Restaurants, Food</data>
+  <data key="hours" />
+  <data key="label">The Pork Barrel</data>
+</node>
+<node id="-01TD28Dt9-3-bEviz5Lrw">
+  <data key="type">user</data>
+  <data key="name">James</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">2.33</data>
+  <data key="yelping_since">2011-01-08 17:59:37</data>
+  <data key="label">James</data>
+</node>
+<node id="NVOEES_bTR8bguOy_4FUHA">
+  <data key="type">user</data>
+  <data key="name">Brandy</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">3.75</data>
+  <data key="yelping_since">2009-12-26 09:00:23</data>
+  <data key="label">Brandy</data>
+</node>
+<node id="r_f4bvITmP83dO3-lHqMFQ">
+  <data key="type">user</data>
+  <data key="name">Reggie</data>
+  <data key="review_count">8</data>
+  <data key="average_stars">4.75</data>
+  <data key="yelping_since">2021-01-10 01:01:37</data>
+  <data key="label">Reggie</data>
+</node>
+<node id="VFJSYsZSgTmLTJvu-ik4fw">
+  <data key="type">user</data>
+  <data key="name">Jimmy</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">4.5</data>
+  <data key="yelping_since">2014-12-10 18:54:11</data>
+  <data key="label">Jimmy</data>
+</node>
+<node id="5VfvrilO5210Ofkr406wLw">
+  <data key="type">user</data>
+  <data key="name">Don't</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2014-09-18 06:14:55</data>
+  <data key="label">Don't</data>
+</node>
+<node id="pveAN_8RpFRLPURUOSX_cQ">
+  <data key="type">user</data>
+  <data key="name">Darryl</data>
+  <data key="review_count">25</data>
+  <data key="average_stars">4.36</data>
+  <data key="yelping_since">2013-01-07 23:18:03</data>
+  <data key="label">Darryl</data>
+</node>
+<node id="0bnk3oP_tgp9Fz-UVR9pCw">
+  <data key="type">user</data>
+  <data key="name">Jennifer</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">4.67</data>
+  <data key="yelping_since">2017-06-27 23:00:21</data>
+  <data key="label">Jennifer</data>
+</node>
+<node id="DVkGu0BO2rmva9SeGyaw0w">
+  <data key="type">user</data>
+  <data key="name">Jacob</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.25</data>
+  <data key="yelping_since">2009-08-06 20:11:30</data>
+  <data key="label">Jacob</data>
+</node>
+<node id="L42dwpr2l_Lr3pKa8oFJNQ">
+  <data key="type">user</data>
+  <data key="name">Vicki</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">4.67</data>
+  <data key="yelping_since">2016-01-16 19:04:09</data>
+  <data key="label">Vicki</data>
+</node>
+<node id="UzqqSRBqEWZVxnzS9Nh0KA">
+  <data key="type">user</data>
+  <data key="name">Cortney</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2015-09-14 17:32:40</data>
+  <data key="label">Cortney</data>
+</node>
+<node id="kpiSd8abOu2hpyp6T0EgDQ">
+  <data key="type">user</data>
+  <data key="name">Michael</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2014-07-22 17:25:05</data>
+  <data key="label">Michael</data>
+</node>
+<node id="455EkCesDoD6ngfSOXeM6A">
+  <data key="type">user</data>
+  <data key="name">Terry Taul</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2019-10-06 18:50:57</data>
+  <data key="label">Terry Taul</data>
+</node>
+<node id="sRrbyhwwENxkfjIkP0yAuA">
+  <data key="type">user</data>
+  <data key="name">Dustin</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2019-09-20 23:58:20</data>
+  <data key="label">Dustin</data>
+</node>
+<node id="osFCe_10N3yWXhMNx5zb2A">
+  <data key="type">user</data>
+  <data key="name">Joy</data>
+  <data key="review_count">5</data>
+  <data key="average_stars">1.67</data>
+  <data key="yelping_since">2015-01-25 15:05:06</data>
+  <data key="label">Joy</data>
+</node>
+<node id="ZQ3k8_aqW43KW7URRp9VHA">
+  <data key="type">user</data>
+  <data key="name">Theda</data>
+  <data key="review_count">141</data>
+  <data key="average_stars">4.23</data>
+  <data key="yelping_since">2014-11-23 18:44:00</data>
+  <data key="label">Theda</data>
+</node>
+<node id="aQUIJNOkWyd-r9GLl2pJfg">
+  <data key="type">user</data>
+  <data key="name">R</data>
+  <data key="review_count">11</data>
+  <data key="average_stars">3.27</data>
+  <data key="yelping_since">2013-12-03 19:40:05</data>
+  <data key="label">R</data>
+</node>
+<node id="bYENop4BuQepBjM1-BI3fA">
+  <data key="type">user</data>
+  <data key="name">Steven</data>
+  <data key="review_count">1562</data>
+  <data key="average_stars">3.92</data>
+  <data key="yelping_since">2010-08-08 15:05:23</data>
+  <data key="label">Steven</data>
+</node>
+<node id="2NKbOhpVex6kU7G9lfWoDQ">
+  <data key="type">user</data>
+  <data key="name">Melissa</data>
+  <data key="review_count">178</data>
+  <data key="average_stars">4.2</data>
+  <data key="yelping_since">2015-06-03 19:33:04</data>
+  <data key="label">Melissa</data>
+</node>
+<node id="wXPVDqptyKeahYjhlii-Xw">
+  <data key="type">user</data>
+  <data key="name">Brad</data>
+  <data key="review_count">32</data>
+  <data key="average_stars">1.57</data>
+  <data key="yelping_since">2014-07-09 21:45:13</data>
+  <data key="label">Brad</data>
+</node>
+<node id="GyuLB7I4lVsgZse7jlmKFA">
+  <data key="type">user</data>
+  <data key="name">Cathy</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2020-09-13 17:14:55</data>
+  <data key="label">Cathy</data>
+</node>
+<node id="AsL4qE7Rv6MXJ5_BK_34JA">
+  <data key="type">user</data>
+  <data key="name">Robert</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">3.13</data>
+  <data key="yelping_since">2013-07-08 12:08:51</data>
+  <data key="label">Robert</data>
+</node>
+<node id="5ElcsWZ6ZvESnHclkLwKAQ">
+  <data key="type">user</data>
+  <data key="name">Jennifer</data>
+  <data key="review_count">17</data>
+  <data key="average_stars">4.18</data>
+  <data key="yelping_since">2012-02-01 18:12:14</data>
+  <data key="label">Jennifer</data>
+</node>
+<node id="1FewsdvGodYhLAuVfHTY1w">
+  <data key="type">user</data>
+  <data key="name">Tracy</data>
+  <data key="review_count">19</data>
+  <data key="average_stars">3.15</data>
+  <data key="yelping_since">2016-07-16 20:20:07</data>
+  <data key="label">Tracy</data>
+</node>
+<node id="DF173DJmYY6NqWa5SSiK4Q">
+  <data key="type">user</data>
+  <data key="name">Benjamin</data>
+  <data key="review_count">9</data>
+  <data key="average_stars">3.44</data>
+  <data key="yelping_since">2008-11-23 01:00:10</data>
+  <data key="label">Benjamin</data>
+</node>
+<node id="TyBFsHFv1EICA--aIgLF7w">
+  <data key="type">user</data>
+  <data key="name">Brian</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">3.67</data>
+  <data key="yelping_since">2016-04-05 20:04:53</data>
+  <data key="label">Brian</data>
+</node>
+<node id="vYHyn3AG3PMmKKZ4Mbd-xQ">
+  <data key="type">user</data>
+  <data key="name">Sue</data>
+  <data key="review_count">14</data>
+  <data key="average_stars">4.86</data>
+  <data key="yelping_since">2013-09-12 02:51:41</data>
+  <data key="label">Sue</data>
+</node>
+<node id="dULggRzG-SLIffEtd3abqQ">
+  <data key="type">user</data>
+  <data key="name">Tonya</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.75</data>
+  <data key="yelping_since">2016-02-12 13:42:39</data>
+  <data key="label">Tonya</data>
+</node>
+<node id="u5AJWfh_uJKTFkTSruFkkw">
+  <data key="type">user</data>
+  <data key="name">Nate</data>
+  <data key="review_count">5</data>
+  <data key="average_stars">3.4</data>
+  <data key="yelping_since">2017-10-31 23:38:50</data>
+  <data key="label">Nate</data>
+</node>
+<node id="jb4M-2Q88HG2cyGl8EfBkA">
+  <data key="type">user</data>
+  <data key="name">Beckie</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2021-06-10 13:56:21</data>
+  <data key="label">Beckie</data>
+</node>
+<node id="U6_QLPi_GCloh2dNFFOWCg">
+  <data key="type">user</data>
+  <data key="name">Robert</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2017-03-14 22:25:10</data>
+  <data key="label">Robert</data>
+</node>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="pveAN_8RpFRLPURUOSX_cQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2017-09-09 00:43:45</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="0bnk3oP_tgp9Fz-UVR9pCw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2018-06-19 23:42:02</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="DVkGu0BO2rmva9SeGyaw0w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-01-11 03:25:25</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="L42dwpr2l_Lr3pKa8oFJNQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-01-17 03:54:56</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="UzqqSRBqEWZVxnzS9Nh0KA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2015-09-14 17:32:50</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="kpiSd8abOu2hpyp6T0EgDQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2014-10-30 02:57:54</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="455EkCesDoD6ngfSOXeM6A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2019-11-22 20:45:38</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="sRrbyhwwENxkfjIkP0yAuA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2019-09-20 23:59:03</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="osFCe_10N3yWXhMNx5zb2A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-10-04 00:44:10</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="ZQ3k8_aqW43KW7URRp9VHA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2019-12-30 05:28:05</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="aQUIJNOkWyd-r9GLl2pJfg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2014-07-16 16:32:38</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="bYENop4BuQepBjM1-BI3fA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2021-01-16 01:09:14</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="2NKbOhpVex6kU7G9lfWoDQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2019-05-14 01:20:14</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="wXPVDqptyKeahYjhlii-Xw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2021-04-24 18:34:22</data>
+</edge>
+<edge source="jdYcYtelx5akXrVJ_kVCJQ" target="GyuLB7I4lVsgZse7jlmKFA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2020-10-19 21:30:27</data>
+</edge>
+<edge source="_-AIbZSkfTFtgn_kKsk7Xw" target="-01TD28Dt9-3-bEviz5Lrw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2015-11-21 19:09:16</data>
+</edge>
+<edge source="_-AIbZSkfTFtgn_kKsk7Xw" target="NVOEES_bTR8bguOy_4FUHA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2010-01-27 16:18:03</data>
+</edge>
+<edge source="_-AIbZSkfTFtgn_kKsk7Xw" target="r_f4bvITmP83dO3-lHqMFQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2021-01-19 02:40:00</data>
+</edge>
+<edge source="_-AIbZSkfTFtgn_kKsk7Xw" target="VFJSYsZSgTmLTJvu-ik4fw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-04-25 05:57:05</data>
+</edge>
+<edge source="_-AIbZSkfTFtgn_kKsk7Xw" target="5VfvrilO5210Ofkr406wLw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2014-09-18 06:26:01</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="AsL4qE7Rv6MXJ5_BK_34JA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-04-29 20:55:15</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="5ElcsWZ6ZvESnHclkLwKAQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-12-23 18:24:21</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="1FewsdvGodYhLAuVfHTY1w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2016-08-12 16:57:54</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="DF173DJmYY6NqWa5SSiK4Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2014-01-25 02:15:39</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="TyBFsHFv1EICA--aIgLF7w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2016-04-30 18:02:53</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="vYHyn3AG3PMmKKZ4Mbd-xQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2014-05-06 04:41:39</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="dULggRzG-SLIffEtd3abqQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-09-15 21:59:14</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="u5AJWfh_uJKTFkTSruFkkw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-06-22 21:50:22</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="jb4M-2Q88HG2cyGl8EfBkA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2021-07-12 19:07:21</data>
+</edge>
+<edge source="lkg7QOitJEu3c5-8nbGGhA" target="U6_QLPi_GCloh2dNFFOWCg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-03-28 00:59:25</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="MW3rpMLnVr7I6izfBw-1Hw">
+  <data key="type">business</data>
+  <data key="business_id">MW3rpMLnVr7I6izfBw-1Hw</data>
+  <data key="name">Lewis and Clark Confluence Tower</data>
+  <data key="address">435 Confluence Tower Dr</data>
+  <data key="city">Hartford</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62048</data>
+  <data key="latitude">38.8109208</data>
+  <data key="longitude">-90.1007639</data>
+  <data key="stars">3.0</data>
+  <data key="review_count">11</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'GoodForKids': 'True'}</data>
+  <data key="categories">Landmarks &amp; Historical Buildings, Local Flavor, Public Services &amp; Government</data>
+  <data key="hours" />
+  <data key="label">Lewis and Clark Confluence Tower</data>
+</node>
+<node id="SaZJPDpHKl57z3giyPcleg">
+  <data key="type">business</data>
+  <data key="business_id">SaZJPDpHKl57z3giyPcleg</data>
+  <data key="name">Lewis &amp; Clark State Historic Site</data>
+  <data key="address">1 Lewis And Clark Trl</data>
+  <data key="city">Hartford</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62048</data>
+  <data key="latitude">38.8022768</data>
+  <data key="longitude">-90.1021746</data>
+  <data key="stars">4.5</data>
+  <data key="review_count">10</data>
+  <data key="is_open">1</data>
+  <data key="attributes" />
+  <data key="categories">Public Services &amp; Government, Landmarks &amp; Historical Buildings</data>
+  <data key="hours">{'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0', 'Sunday': '9:0-17:0'}</data>
+  <data key="label">Lewis &amp; Clark State Historic Site</data>
+</node>
+<node id="QbYG8AddeKPDokjmdA0ZFg">
+  <data key="type">user</data>
+  <data key="name">Mireya</data>
+  <data key="review_count">11</data>
+  <data key="average_stars">2.5</data>
+  <data key="yelping_since">2018-06-01 12:59:52</data>
+  <data key="label">Mireya</data>
+</node>
+<node id="-eNXlBt8f3peANJvNHz6Cw">
+  <data key="type">user</data>
+  <data key="name">Jeff</data>
+  <data key="review_count">324</data>
+  <data key="average_stars">3.53</data>
+  <data key="yelping_since">2011-03-14 23:32:16</data>
+  <data key="label">Jeff</data>
+</node>
+<node id="bYENop4BuQepBjM1-BI3fA">
+  <data key="type">user</data>
+  <data key="name">Steven</data>
+  <data key="review_count">1562</data>
+  <data key="average_stars">3.92</data>
+  <data key="yelping_since">2010-08-08 15:05:23</data>
+  <data key="label">Steven</data>
+</node>
+<node id="-Ub6sTS9u9scC5y_85l8xg">
+  <data key="type">user</data>
+  <data key="name">Ash</data>
+  <data key="review_count">55</data>
+  <data key="average_stars">3.66</data>
+  <data key="yelping_since">2010-06-15 01:39:00</data>
+  <data key="label">Ash</data>
+</node>
+<node id="Fsee2631IOb9Xz5Afl2fKA">
+  <data key="type">user</data>
+  <data key="name">David</data>
+  <data key="review_count">1029</data>
+  <data key="average_stars">4.3</data>
+  <data key="yelping_since">2012-01-25 20:16:34</data>
+  <data key="label">David</data>
+</node>
+<node id="GbxgL8o8UJaeV0xfUuqYWA">
+  <data key="type">user</data>
+  <data key="name">Margaret</data>
+  <data key="review_count">101</data>
+  <data key="average_stars">2.68</data>
+  <data key="yelping_since">2013-10-16 05:11:05</data>
+  <data key="label">Margaret</data>
+</node>
+<node id="UWPPx4KkL9VMxEj4uwe-Ng">
+  <data key="type">user</data>
+  <data key="name">Andrew</data>
+  <data key="review_count">163</data>
+  <data key="average_stars">3.84</data>
+  <data key="yelping_since">2012-10-29 19:10:45</data>
+  <data key="label">Andrew</data>
+</node>
+<node id="PDlLmUXtY0D3PS142__Ntw">
+  <data key="type">user</data>
+  <data key="name">Karan</data>
+  <data key="review_count">38</data>
+  <data key="average_stars">4.37</data>
+  <data key="yelping_since">2014-02-11 00:39:06</data>
+  <data key="label">Karan</data>
+</node>
+<node id="BkcOjpE9wAQqFcm9dGYngw">
+  <data key="type">user</data>
+  <data key="name">Stephen</data>
+  <data key="review_count">10</data>
+  <data key="average_stars">4.5</data>
+  <data key="yelping_since">2014-09-30 14:13:18</data>
+  <data key="label">Stephen</data>
+</node>
+<node id="Hxx8FmhpxiugIrGRh8RDOg">
+  <data key="type">user</data>
+  <data key="name">Tom</data>
+  <data key="review_count">754</data>
+  <data key="average_stars">3.83</data>
+  <data key="yelping_since">2010-02-15 20:54:20</data>
+  <data key="label">Tom</data>
+</node>
+<node id="sG9dTFp2WwWbRJVjj5gH2w">
+  <data key="type">user</data>
+  <data key="name">Jason</data>
+  <data key="review_count">605</data>
+  <data key="average_stars">3.75</data>
+  <data key="yelping_since">2014-09-13 02:54:05</data>
+  <data key="label">Jason</data>
+</node>
+<node id="VsGuHPC3gC0eXKvVr-oWsg">
+  <data key="type">user</data>
+  <data key="name">Cathy</data>
+  <data key="review_count">435</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2010-08-18 21:21:52</data>
+  <data key="label">Cathy</data>
+</node>
+<node id="H6Eug1lP8LxexxUg4y9tdQ">
+  <data key="type">user</data>
+  <data key="name">Jason</data>
+  <data key="review_count">123</data>
+  <data key="average_stars">4.5</data>
+  <data key="yelping_since">2009-04-30 03:16:12</data>
+  <data key="label">Jason</data>
+</node>
+<node id="mDFeDwPLtG2TERrsR9kudw">
+  <data key="type">user</data>
+  <data key="name">Lupe</data>
+  <data key="review_count">436</data>
+  <data key="average_stars">3.68</data>
+  <data key="yelping_since">2008-09-25 19:35:25</data>
+  <data key="label">Lupe</data>
+</node>
+<node id="CUg93gjXCw75kt0XQ8K2eA">
+  <data key="type">user</data>
+  <data key="name">Julie</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">3.25</data>
+  <data key="yelping_since">2018-08-05 00:47:14</data>
+  <data key="label">Julie</data>
+</node>
+<node id="HKZo5Fa0lNSjX9BbdOpjJQ">
+  <data key="type">user</data>
+  <data key="name">Jessica</data>
+  <data key="review_count">330</data>
+  <data key="average_stars">3.76</data>
+  <data key="yelping_since">2010-09-04 22:13:26</data>
+  <data key="label">Jessica</data>
+</node>
+<node id="Ux1IPM6oVEyYNVGXSbKxHQ">
+  <data key="type">user</data>
+  <data key="name">Josh</data>
+  <data key="review_count">191</data>
+  <data key="average_stars">3.38</data>
+  <data key="yelping_since">2016-12-28 20:52:39</data>
+  <data key="label">Josh</data>
+</node>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="bYENop4BuQepBjM1-BI3fA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2014-06-19 01:12:21</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="-Ub6sTS9u9scC5y_85l8xg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2011-03-28 02:20:11</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="GbxgL8o8UJaeV0xfUuqYWA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2016-08-01 03:44:21</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="UWPPx4KkL9VMxEj4uwe-Ng" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2013-09-23 19:47:35</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="PDlLmUXtY0D3PS142__Ntw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2015-06-02 02:53:12</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="Hxx8FmhpxiugIrGRh8RDOg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2012-02-20 14:48:17</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="-eNXlBt8f3peANJvNHz6Cw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2015-03-13 17:41:28</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="Fsee2631IOb9Xz5Afl2fKA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-08-18 15:39:27</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="H6Eug1lP8LxexxUg4y9tdQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2011-03-14 00:54:58</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="mDFeDwPLtG2TERrsR9kudw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2012-09-04 19:54:45</data>
+</edge>
+<edge source="MW3rpMLnVr7I6izfBw-1Hw" target="HKZo5Fa0lNSjX9BbdOpjJQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2011-02-12 01:10:55</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="QbYG8AddeKPDokjmdA0ZFg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-06-19 17:49:18</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="-eNXlBt8f3peANJvNHz6Cw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-03-18 21:44:46</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="Fsee2631IOb9Xz5Afl2fKA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2018-08-18 17:07:46</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="GbxgL8o8UJaeV0xfUuqYWA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-08-01 03:51:04</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="BkcOjpE9wAQqFcm9dGYngw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2014-10-03 16:39:40</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="sG9dTFp2WwWbRJVjj5gH2w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-09-26 15:40:41</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="VsGuHPC3gC0eXKvVr-oWsg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2012-04-21 03:24:59</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="Hxx8FmhpxiugIrGRh8RDOg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2012-02-20 14:54:01</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="CUg93gjXCw75kt0XQ8K2eA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2018-10-06 18:55:37</data>
+</edge>
+<edge source="SaZJPDpHKl57z3giyPcleg" target="Ux1IPM6oVEyYNVGXSbKxHQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2021-01-03 02:17:41</data>
+</edge>
+</graph></graphml>

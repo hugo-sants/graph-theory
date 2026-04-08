@@ -1,0 +1,36 @@
+graph {
+	graph [label=""]
+	size="10,10"
+	rankdir=LR
+	subgraph main {
+		color=black label=Grafo
+		_ab50qdWOk0DdB6XOrBitw [label="Acme Oyster House" fillcolor="/paired12/1" shape=box style=filled]
+		"-OKB11ypR4C8wWlonBFIGw" [label="Atlantis Casino Resort Spa" fillcolor="/paired12/1" shape=box style=filled]
+		"gKBqK-FFq7EGOUscBqb1iA" [label="The Royale Food & Spirits" fillcolor="/paired12/1" shape=box style=filled]
+		JaMZoosomwX7DDjkFOEo3g [label="Schnucks Richmond Center" fillcolor="/paired12/1" shape=box style=filled]
+		iSRTaT9WngzB8JJ2YKJUig [label="Mother's Restaurant" fillcolor="/paired12/1" shape=box style=filled]
+		"2WnXYQFK0hXEoTxPtV2zvg" [label=Steph fillcolor="/paired12/1" shape=box style=filled]
+		qVc8ODYU5SZjKXVBgXdI7w [label=Walker fillcolor="/paired12/1" shape=box style=filled]
+		xoZvMJPDW6Q9pDAXI0e_Ww [label=Ryan fillcolor="/paired12/1" shape=box style=filled]
+		"MGPQVLsODMm9ZtYQW-g_OA" [label=Jelena fillcolor="/paired12/1" shape=box style=filled]
+		SZDeASXq7o05mMNLshsdIA [label=Gwen fillcolor="/paired12/1" shape=box style=filled]
+		SgiBkhXeqIKl1PlFpZOycQ [label=Eugene fillcolor="/paired12/1" shape=box style=filled]
+		"1L3O2CUTk27SnmqyPBWQdQ" [label=Helen fillcolor="/paired12/1" shape=box style=filled]
+		"j14WgRoU_-2ZE1aw1dXrJg" [label=Daniel fillcolor="/paired12/1" shape=box style=filled]
+		_ab50qdWOk0DdB6XOrBitw -- SgiBkhXeqIKl1PlFpZOycQ
+		_ab50qdWOk0DdB6XOrBitw -- "MGPQVLsODMm9ZtYQW-g_OA"
+		_ab50qdWOk0DdB6XOrBitw -- "j14WgRoU_-2ZE1aw1dXrJg"
+		"-OKB11ypR4C8wWlonBFIGw" -- "2WnXYQFK0hXEoTxPtV2zvg"
+		"-OKB11ypR4C8wWlonBFIGw" -- qVc8ODYU5SZjKXVBgXdI7w
+		"-OKB11ypR4C8wWlonBFIGw" -- xoZvMJPDW6Q9pDAXI0e_Ww
+		"gKBqK-FFq7EGOUscBqb1iA" -- "MGPQVLsODMm9ZtYQW-g_OA"
+		"gKBqK-FFq7EGOUscBqb1iA" -- "MGPQVLsODMm9ZtYQW-g_OA"
+		"gKBqK-FFq7EGOUscBqb1iA" -- "MGPQVLsODMm9ZtYQW-g_OA"
+		JaMZoosomwX7DDjkFOEo3g -- "MGPQVLsODMm9ZtYQW-g_OA"
+		JaMZoosomwX7DDjkFOEo3g -- "MGPQVLsODMm9ZtYQW-g_OA"
+		JaMZoosomwX7DDjkFOEo3g -- "MGPQVLsODMm9ZtYQW-g_OA"
+		iSRTaT9WngzB8JJ2YKJUig -- SZDeASXq7o05mMNLshsdIA
+		iSRTaT9WngzB8JJ2YKJUig -- SgiBkhXeqIKl1PlFpZOycQ
+		iSRTaT9WngzB8JJ2YKJUig -- "1L3O2CUTk27SnmqyPBWQdQ"
+	}
+}

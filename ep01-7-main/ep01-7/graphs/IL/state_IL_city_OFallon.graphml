@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="POtDjIInP2n-rgd84VRl3A">
+  <data key="type">business</data>
+  <data key="business_id">POtDjIInP2n-rgd84VRl3A</data>
+  <data key="name">Candlewood Suites Ofallon, Il - St. Louis Area</data>
+  <data key="address">1332 Park Plaza Dr</data>
+  <data key="city">Ofallon</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62269</data>
+  <data key="latitude">38.5879336</data>
+  <data key="longitude">-89.9450641</data>
+  <data key="stars">2.5</data>
+  <data key="review_count">15</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsPriceRange2': '2', 'WiFi': "u'free'", 'BusinessAcceptsCreditCards': 'True'}</data>
+  <data key="categories">Hotels &amp; Travel, Event Planning &amp; Services, Hotels, Venues &amp; Event Spaces</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Tuesday': '0:0-0:0', 'Wednesday': '0:0-0:0', 'Thursday': '0:0-0:0', 'Friday': '0:0-0:0', 'Saturday': '0:0-0:0', 'Sunday': '0:0-0:0'}</data>
+  <data key="label">Candlewood Suites Ofallon, Il - St. Louis Area</data>
+</node>
+<node id="fYE_H9XbAr6Mga1colFrtw">
+  <data key="type">business</data>
+  <data key="business_id">fYE_H9XbAr6Mga1colFrtw</data>
+  <data key="name">Days Inn O'Fallon</data>
+  <data key="address">1320 Park Plaza Dr</data>
+  <data key="city">Ofallon</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62232</data>
+  <data key="latitude">38.5874822</data>
+  <data key="longitude">-89.9443746</data>
+  <data key="stars">2.0</data>
+  <data key="review_count">6</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsPriceRange2': '1', 'BusinessAcceptsCreditCards': 'True', 'WiFi': "u'free'"}</data>
+  <data key="categories">Hotels &amp; Travel, Event Planning &amp; Services, Hotels</data>
+  <data key="hours" />
+  <data key="label">Days Inn O'Fallon</data>
+</node>
+<node id="DnN--n65cNxGwPCCyNEK1Q">
+  <data key="type">user</data>
+  <data key="name">Kimmie</data>
+  <data key="review_count">9</data>
+  <data key="average_stars">3.27</data>
+  <data key="yelping_since">2011-08-27 12:48:02</data>
+  <data key="label">Kimmie</data>
+</node>
+<node id="hUjOc1Cfs0XRh-rU21AsnQ">
+  <data key="type">user</data>
+  <data key="name">Steve</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2016-07-18 18:11:49</data>
+  <data key="label">Steve</data>
+</node>
+<node id="RlB7oz7pEh8eTei5ZIV7-g">
+  <data key="type">user</data>
+  <data key="name">Kevin</data>
+  <data key="review_count">12</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2013-10-26 13:24:32</data>
+  <data key="label">Kevin</data>
+</node>
+<node id="sWgTurJPlXG45QTd30LbBQ">
+  <data key="type">user</data>
+  <data key="name">Logan</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2014-08-12 18:27:33</data>
+  <data key="label">Logan</data>
+</node>
+<node id="39eWhdUHyqFdMQQCMTtmAg">
+  <data key="type">user</data>
+  <data key="name">Richard</data>
+  <data key="review_count">174</data>
+  <data key="average_stars">4.3</data>
+  <data key="yelping_since">2012-05-30 22:58:29</data>
+  <data key="label">Richard</data>
+</node>
+<node id="m4mvyrKQoiVU3BQg1yK01Q">
+  <data key="type">user</data>
+  <data key="name">Korina</data>
+  <data key="review_count">118</data>
+  <data key="average_stars">3.67</data>
+  <data key="yelping_since">2012-03-25 04:31:30</data>
+  <data key="label">Korina</data>
+</node>
+<node id="yJ_YpXtHc-BkJy9mJWVfsA">
+  <data key="type">user</data>
+  <data key="name">Irene</data>
+  <data key="review_count">86</data>
+  <data key="average_stars">3.82</data>
+  <data key="yelping_since">2010-05-19 22:12:12</data>
+  <data key="label">Irene</data>
+</node>
+<node id="g-UDxVEqzhH7r6FHGECCRg">
+  <data key="type">user</data>
+  <data key="name">Stephanie</data>
+  <data key="review_count">23</data>
+  <data key="average_stars">4.22</data>
+  <data key="yelping_since">2010-08-03 23:20:19</data>
+  <data key="label">Stephanie</data>
+</node>
+<node id="3PSlmeA0OkaScL-5AS0tFw">
+  <data key="type">user</data>
+  <data key="name">D</data>
+  <data key="review_count">144</data>
+  <data key="average_stars">3.78</data>
+  <data key="yelping_since">2012-09-05 18:08:12</data>
+  <data key="label">D</data>
+</node>
+<node id="rpCSj4bJCGh06zXQNTdW7g">
+  <data key="type">user</data>
+  <data key="name">Kathy</data>
+  <data key="review_count">21</data>
+  <data key="average_stars">2.73</data>
+  <data key="yelping_since">2010-09-26 19:59:22</data>
+  <data key="label">Kathy</data>
+</node>
+<node id="qkd7RlUGcD-KZGMjt2Gfmw">
+  <data key="type">user</data>
+  <data key="name">Marikay</data>
+  <data key="review_count">7</data>
+  <data key="average_stars">3.57</data>
+  <data key="yelping_since">2014-01-20 22:44:24</data>
+  <data key="label">Marikay</data>
+</node>
+<node id="OJM1ilNYdHFbpiwPR7dJEw">
+  <data key="type">user</data>
+  <data key="name">Holly</data>
+  <data key="review_count">5</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2012-07-22 16:18:51</data>
+  <data key="label">Holly</data>
+</node>
+<node id="iFbYkW2UyU-k8rRbqFY-3Q">
+  <data key="type">user</data>
+  <data key="name">Eric</data>
+  <data key="review_count">25</data>
+  <data key="average_stars">3.84</data>
+  <data key="yelping_since">2014-05-23 20:34:40</data>
+  <data key="label">Eric</data>
+</node>
+<node id="fGZVMbTJQlQDDIirAPZoJA">
+  <data key="type">user</data>
+  <data key="name">Tom</data>
+  <data key="review_count">21</data>
+  <data key="average_stars">3.35</data>
+  <data key="yelping_since">2016-06-28 19:05:09</data>
+  <data key="label">Tom</data>
+</node>
+<node id="-4oLp_KJcFm9D96Zp4OP6g">
+  <data key="type">user</data>
+  <data key="name">Christy</data>
+  <data key="review_count">17</data>
+  <data key="average_stars">3.61</data>
+  <data key="yelping_since">2014-03-09 21:23:36</data>
+  <data key="label">Christy</data>
+</node>
+<node id="gD9eBu4vn7QzjuuZblmdCA">
+  <data key="type">user</data>
+  <data key="name">Nikki</data>
+  <data key="review_count">34</data>
+  <data key="average_stars">2.67</data>
+  <data key="yelping_since">2017-08-31 22:03:33</data>
+  <data key="label">Nikki</data>
+</node>
+<node id="UtGowq6_7RO2CUhlgduY5A">
+  <data key="type">user</data>
+  <data key="name">Michael</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2019-09-19 02:16:38</data>
+  <data key="label">Michael</data>
+</node>
+<node id="qRkmHZXF2EQ5WbkU7rEnKg">
+  <data key="type">user</data>
+  <data key="name">Dave</data>
+  <data key="review_count">541</data>
+  <data key="average_stars">4.23</data>
+  <data key="yelping_since">2014-12-31 03:10:10</data>
+  <data key="label">Dave</data>
+</node>
+<node id="WO_qL4eFmeCmSjuNpW-j8A">
+  <data key="type">user</data>
+  <data key="name">Ashley</data>
+  <data key="review_count">13</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2015-03-22 17:02:54</data>
+  <data key="label">Ashley</data>
+</node>
+<node id="qN1108pSbEVhCrGPG49Ykg">
+  <data key="type">user</data>
+  <data key="name">Melissa</data>
+  <data key="review_count">7</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2012-10-15 05:25:54</data>
+  <data key="label">Melissa</data>
+</node>
+<node id="z8oNye6lG5mbiBuHBODeIA">
+  <data key="type">user</data>
+  <data key="name">Michael</data>
+  <data key="review_count">10</data>
+  <data key="average_stars">1.7</data>
+  <data key="yelping_since">2018-08-09 22:01:22</data>
+  <data key="label">Michael</data>
+</node>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="yJ_YpXtHc-BkJy9mJWVfsA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2010-11-23 04:51:08</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="g-UDxVEqzhH7r6FHGECCRg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2010-10-09 13:53:09</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="3PSlmeA0OkaScL-5AS0tFw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2012-10-11 12:02:18</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="rpCSj4bJCGh06zXQNTdW7g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2014-05-29 22:45:25</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="qkd7RlUGcD-KZGMjt2Gfmw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2015-09-05 02:19:24</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="OJM1ilNYdHFbpiwPR7dJEw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2016-05-12 19:59:53</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="iFbYkW2UyU-k8rRbqFY-3Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2014-06-08 12:19:52</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="fGZVMbTJQlQDDIirAPZoJA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2017-05-21 23:01:08</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="-4oLp_KJcFm9D96Zp4OP6g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2014-06-23 21:06:56</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="gD9eBu4vn7QzjuuZblmdCA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2019-08-11 00:33:25</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="UtGowq6_7RO2CUhlgduY5A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-08-13 12:51:16</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="qRkmHZXF2EQ5WbkU7rEnKg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-07-07 15:04:54</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="WO_qL4eFmeCmSjuNpW-j8A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-07-06 23:44:19</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="qN1108pSbEVhCrGPG49Ykg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2020-10-29 22:29:32</data>
+</edge>
+<edge source="POtDjIInP2n-rgd84VRl3A" target="z8oNye6lG5mbiBuHBODeIA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-03-23 20:11:55</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="DnN--n65cNxGwPCCyNEK1Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2014-01-03 02:18:31</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="DnN--n65cNxGwPCCyNEK1Q" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2013-04-19 14:24:12</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="hUjOc1Cfs0XRh-rU21AsnQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2016-07-18 18:16:30</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="RlB7oz7pEh8eTei5ZIV7-g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2013-10-26 13:32:28</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="sWgTurJPlXG45QTd30LbBQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2016-07-11 04:52:03</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="39eWhdUHyqFdMQQCMTtmAg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2015-01-26 03:30:33</data>
+</edge>
+<edge source="fYE_H9XbAr6Mga1colFrtw" target="m4mvyrKQoiVU3BQg1yK01Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-09-01 23:39:36</data>
+</edge>
+</graph></graphml>

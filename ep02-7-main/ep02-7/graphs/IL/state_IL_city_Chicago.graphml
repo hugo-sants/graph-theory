@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="PbxGUBMCnQydOwAu4FAzNA">
+  <data key="type">business</data>
+  <data key="business_id">PbxGUBMCnQydOwAu4FAzNA</data>
+  <data key="name">North Avenue Collective</data>
+  <data key="address">2511 W North Ave</data>
+  <data key="city">Chicago</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62035</data>
+  <data key="latitude">38.9241876</data>
+  <data key="longitude">-90.2009997</data>
+  <data key="stars">5.0</data>
+  <data key="review_count">11</data>
+  <data key="is_open">0</data>
+  <data key="attributes">{'ByAppointmentOnly': 'False', 'RestaurantsPriceRange2': '2', 'WheelchairAccessible': 'True', 'BusinessAcceptsCreditCards': 'True', 'DogsAllowed': 'True', 'BusinessAcceptsBitcoin': 'False', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'BikeParking': 'True'}</data>
+  <data key="categories">Used, Vintage &amp; Consignment, Shopping, Home Decor, Home &amp; Garden, Fashion, Women's Clothing</data>
+  <data key="hours">{'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-18:0', 'Sunday': '12:0-16:0'}</data>
+  <data key="label">North Avenue Collective</data>
+</node>
+<node id="mQXcLsXnCvpVMq6cZpkSNw">
+  <data key="type">user</data>
+  <data key="name">Clara</data>
+  <data key="review_count">8</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2008-03-19 19:19:53</data>
+  <data key="label">Clara</data>
+</node>
+<node id="ZDiOWnrOxMU40yPoqayrBQ">
+  <data key="type">user</data>
+  <data key="name">Richard</data>
+  <data key="review_count">84</data>
+  <data key="average_stars">4.36</data>
+  <data key="yelping_since">2008-08-07 23:23:34</data>
+  <data key="label">Richard</data>
+</node>
+<node id="fSYXNsSVWd92B_HtkEYW6A">
+  <data key="type">user</data>
+  <data key="name">Allison</data>
+  <data key="review_count">10</data>
+  <data key="average_stars">4.5</data>
+  <data key="yelping_since">2011-02-02 21:07:36</data>
+  <data key="label">Allison</data>
+</node>
+<node id="gu6dqXEDEZ_Rtc8pMaOfow">
+  <data key="type">user</data>
+  <data key="name">Shelby</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">4.17</data>
+  <data key="yelping_since">2015-06-06 14:28:57</data>
+  <data key="label">Shelby</data>
+</node>
+<node id="3D31f9thrFG_RlSPjaHZjQ">
+  <data key="type">user</data>
+  <data key="name">Caroline</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.2</data>
+  <data key="yelping_since">2013-08-20 23:17:45</data>
+  <data key="label">Caroline</data>
+</node>
+<node id="LVKUxV9LGCd7L0FMM5jEVw">
+  <data key="type">user</data>
+  <data key="name">C-Y</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">4.5</data>
+  <data key="yelping_since">2009-05-31 05:45:42</data>
+  <data key="label">C-Y</data>
+</node>
+<node id="buP90NCSikqvXONgYQWAIQ">
+  <data key="type">user</data>
+  <data key="name">Sean</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2012-12-14 00:34:42</data>
+  <data key="label">Sean</data>
+</node>
+<node id="UbTL4Hyh7BCzTAj3QOdFqQ">
+  <data key="type">user</data>
+  <data key="name">Marcy</data>
+  <data key="review_count">8</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2014-09-30 22:56:49</data>
+  <data key="label">Marcy</data>
+</node>
+<node id="Ys2vnlKbOd7ObgOV_jAlYA">
+  <data key="type">user</data>
+  <data key="name">Carrie</data>
+  <data key="review_count">5</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2016-04-30 15:01:13</data>
+  <data key="label">Carrie</data>
+</node>
+<node id="NJUGv_NmdPUx4L6CWQTDHg">
+  <data key="type">user</data>
+  <data key="name">Elly</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2016-03-25 18:10:29</data>
+  <data key="label">Elly</data>
+</node>
+<node id="HDy1kHVxS5rGcg5QStcrvg">
+  <data key="type">user</data>
+  <data key="name">Bob</data>
+  <data key="review_count">378</data>
+  <data key="average_stars">3.35</data>
+  <data key="yelping_since">2009-05-27 19:57:21</data>
+  <data key="label">Bob</data>
+</node>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="mQXcLsXnCvpVMq6cZpkSNw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-07-03 20:08:16</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="ZDiOWnrOxMU40yPoqayrBQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-04-14 04:21:30</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="fSYXNsSVWd92B_HtkEYW6A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-12-07 15:48:48</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="gu6dqXEDEZ_Rtc8pMaOfow" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-04-27 21:25:25</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="3D31f9thrFG_RlSPjaHZjQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-08-11 20:16:56</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="LVKUxV9LGCd7L0FMM5jEVw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-03-03 23:26:23</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="buP90NCSikqvXONgYQWAIQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-12-23 21:55:57</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="buP90NCSikqvXONgYQWAIQ" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-09-16 21:37:18</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="UbTL4Hyh7BCzTAj3QOdFqQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-09-28 21:02:44</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="Ys2vnlKbOd7ObgOV_jAlYA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-04-30 15:06:00</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="NJUGv_NmdPUx4L6CWQTDHg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-10-19 23:13:29</data>
+</edge>
+<edge source="PbxGUBMCnQydOwAu4FAzNA" target="HDy1kHVxS5rGcg5QStcrvg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-08-07 14:51:30</data>
+</edge>
+</graph></graphml>

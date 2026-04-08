@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="review_date" attr.type="string" />
+  <key id="d19" for="edge" attr.name="review_stars" attr.type="double" />
+  <key id="d18" for="edge" attr.name="type" attr.type="string" />
+  <key id="d17" for="node" attr.name="yelping_since" attr.type="string" />
+  <key id="d16" for="node" attr.name="average_stars" attr.type="double" />
+  <key id="d15" for="node" attr.name="label" attr.type="string" />
+  <key id="d14" for="node" attr.name="hours" attr.type="string" />
+  <key id="d13" for="node" attr.name="categories" attr.type="string" />
+  <key id="d12" for="node" attr.name="attributes" attr.type="string" />
+  <key id="d11" for="node" attr.name="is_open" attr.type="long" />
+  <key id="d10" for="node" attr.name="review_count" attr.type="long" />
+  <key id="d9" for="node" attr.name="stars" attr.type="double" />
+  <key id="d8" for="node" attr.name="longitude" attr.type="double" />
+  <key id="d7" for="node" attr.name="latitude" attr.type="double" />
+  <key id="d6" for="node" attr.name="postal_code" attr.type="string" />
+  <key id="d5" for="node" attr.name="state" attr.type="string" />
+  <key id="d4" for="node" attr.name="city" attr.type="string" />
+  <key id="d3" for="node" attr.name="address" attr.type="string" />
+  <key id="d2" for="node" attr.name="name" attr.type="string" />
+  <key id="d1" for="node" attr.name="business_id" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="mx1_2BxcIbZ1RKsGG_UPHg">
+      <data key="d0">business</data>
+      <data key="d1">mx1_2BxcIbZ1RKsGG_UPHg</data>
+      <data key="d2">Good Times Saloon</data>
+      <data key="d3">200 N Main St</data>
+      <data key="d4">Dupo</data>
+      <data key="d5">IL</data>
+      <data key="d6">62239</data>
+      <data key="d7">38.520564</data>
+      <data key="d8">-90.2099959</data>
+      <data key="d9">3.0</data>
+      <data key="d10">11</data>
+      <data key="d11">1</data>
+      <data key="d12">{'BusinessAcceptsCreditCards': 'True', 'HasTV': 'True', 'RestaurantsPriceRange2': '1', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}", 'BikeParking': 'False', 'Alcohol': "u'full_bar'", 'RestaurantsGoodForGroups': 'True', 'WiFi': "u'free'", 'RestaurantsReservations': 'False', 'GoodForKids': 'False', 'Ambience': "{'touristy': None, 'hipster': None, 'romantic': None, 'divey': None, 'intimate': None, 'trendy': None, 'upscale': None, 'classy': None, 'casual': True}", 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': True, 'video': False, 'karaoke': False}", 'BestNights': "{'monday': False, 'tuesday': False, 'friday': False, 'wednesday': False, 'thursday': False, 'sunday': False, 'saturday': False}", 'OutdoorSeating': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsDelivery': 'True'}</data>
+      <data key="d13">Nightlife, Sports Bars, Beer Bar, Bars, Restaurants, American (Traditional)</data>
+      <data key="d14">{'Monday': '11:0-2:0', 'Tuesday': '11:0-2:0', 'Wednesday': '11:0-2:0', 'Thursday': '11:0-2:0', 'Friday': '11:0-2:0', 'Saturday': '11:0-2:0', 'Sunday': '11:0-2:0'}</data>
+      <data key="d15">Good Times Saloon</data>
+    </node>
+    <node id="9SQPIP8ASyy6J7Ujjzi3Ag">
+      <data key="d0">user</data>
+      <data key="d2">Jennifer</data>
+      <data key="d10">189</data>
+      <data key="d16">4.28</data>
+      <data key="d17">2018-08-18 15:47:55</data>
+      <data key="d15">Jennifer</data>
+    </node>
+    <node id="RXSd57z_afLK9nWKHmIsTQ">
+      <data key="d0">user</data>
+      <data key="d2">Jennifer</data>
+      <data key="d10">8</data>
+      <data key="d16">2.75</data>
+      <data key="d17">2010-12-29 18:54:47</data>
+      <data key="d15">Jennifer</data>
+    </node>
+    <node id="FFUZykBvwrC2_dOYQjIYxQ">
+      <data key="d0">user</data>
+      <data key="d2">Dana</data>
+      <data key="d10">4</data>
+      <data key="d16">4.75</data>
+      <data key="d17">2009-01-19 19:22:49</data>
+      <data key="d15">Dana</data>
+    </node>
+    <node id="fxeRdFmgY6tbTyidpcdFLw">
+      <data key="d0">user</data>
+      <data key="d2">Tanya</data>
+      <data key="d10">483</data>
+      <data key="d16">3.29</data>
+      <data key="d17">2010-05-14 20:36:57</data>
+      <data key="d15">Tanya</data>
+    </node>
+    <node id="_pcJosyzxpJTyIuvs_pMqg">
+      <data key="d0">user</data>
+      <data key="d2">Tyler</data>
+      <data key="d10">1</data>
+      <data key="d16">1.0</data>
+      <data key="d17">2019-04-28 01:52:52</data>
+      <data key="d15">Tyler</data>
+    </node>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="RXSd57z_afLK9nWKHmIsTQ" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2016-11-11 23:11:09</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="fxeRdFmgY6tbTyidpcdFLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2010-05-20 01:16:58</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="fxeRdFmgY6tbTyidpcdFLw" id="1">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2010-10-22 03:14:16</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="FFUZykBvwrC2_dOYQjIYxQ" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2018-06-18 17:51:15</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="_pcJosyzxpJTyIuvs_pMqg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2019-08-23 02:36:40</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="9SQPIP8ASyy6J7Ujjzi3Ag" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2020-03-20 23:35:11</data>
+    </edge>
+  </graph>
+</graphml>

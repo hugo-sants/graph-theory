@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="review_date" attr.type="string" />
+  <key id="d19" for="edge" attr.name="review_stars" attr.type="double" />
+  <key id="d18" for="edge" attr.name="type" attr.type="string" />
+  <key id="d17" for="node" attr.name="hours" attr.type="string" />
+  <key id="d16" for="node" attr.name="categories" attr.type="string" />
+  <key id="d15" for="node" attr.name="attributes" attr.type="string" />
+  <key id="d14" for="node" attr.name="is_open" attr.type="long" />
+  <key id="d13" for="node" attr.name="stars" attr.type="double" />
+  <key id="d12" for="node" attr.name="longitude" attr.type="double" />
+  <key id="d11" for="node" attr.name="latitude" attr.type="double" />
+  <key id="d10" for="node" attr.name="postal_code" attr.type="string" />
+  <key id="d9" for="node" attr.name="state" attr.type="string" />
+  <key id="d8" for="node" attr.name="city" attr.type="string" />
+  <key id="d7" for="node" attr.name="address" attr.type="string" />
+  <key id="d6" for="node" attr.name="business_id" attr.type="string" />
+  <key id="d5" for="node" attr.name="label" attr.type="string" />
+  <key id="d4" for="node" attr.name="yelping_since" attr.type="string" />
+  <key id="d3" for="node" attr.name="average_stars" attr.type="double" />
+  <key id="d2" for="node" attr.name="review_count" attr.type="long" />
+  <key id="d1" for="node" attr.name="name" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="dxnaNew02Mu_391Xi1z2cQ">
+      <data key="d0">user</data>
+      <data key="d1">Hailey</data>
+      <data key="d2">97</data>
+      <data key="d3">3.56</data>
+      <data key="d4">2014-08-21 02:18:37</data>
+      <data key="d5">Hailey</data>
+    </node>
+    <node id="cVOC5jLNpP78yf5kh-gx_g">
+      <data key="d0">business</data>
+      <data key="d6">cVOC5jLNpP78yf5kh-gx_g</data>
+      <data key="d1">Classic K Hamburgers</data>
+      <data key="d7">1613 Camp Jackson Rd</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5542779</data>
+      <data key="d12">-90.165924</data>
+      <data key="d13">4.0</data>
+      <data key="d2">15</data>
+      <data key="d14">1</data>
+      <data key="d15">{'Caters': 'False', 'RestaurantsReservations': 'False', 'RestaurantsPriceRange2': '1', 'WiFi': "u'no'", 'RestaurantsGoodForGroups': 'True', 'OutdoorSeating': 'False', 'RestaurantsDelivery': 'False', 'RestaurantsAttire': "u'casual'", 'BusinessAcceptsCreditCards': 'True', 'RestaurantsTakeOut': 'True', 'GoodForKids': 'True', 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}", 'Alcohol': "u'none'", 'HasTV': 'True', 'BikeParking': 'True', 'BusinessParking': "{u'valet': False, u'garage': False, u'street': False, u'lot': True, u'validated': False}"}</data>
+      <data key="d16">Restaurants, Fast Food, Burgers</data>
+      <data key="d17">{'Monday': '6:0-21:0', 'Tuesday': '6:0-21:0', 'Wednesday': '6:0-21:0', 'Thursday': '6:0-21:0', 'Friday': '6:0-21:0', 'Saturday': '6:0-21:0', 'Sunday': '6:0-21:0'}</data>
+      <data key="d5">Classic K Hamburgers</data>
+    </node>
+    <node id="59hqWP1E1pfjshhHSu0OxA">
+      <data key="d0">business</data>
+      <data key="d6">59hqWP1E1pfjshhHSu0OxA</data>
+      <data key="d1">KFC</data>
+      <data key="d7">1691 Camp Jackson Rd</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5525267221</data>
+      <data key="d12">-90.1635407086</data>
+      <data key="d13">2.5</data>
+      <data key="d2">6</data>
+      <data key="d14">1</data>
+      <data key="d15">{'RestaurantsGoodForGroups': 'True', 'RestaurantsReservations': 'False', 'RestaurantsTakeOut': 'True', 'BusinessAcceptsCreditCards': 'True', 'GoodForKids': 'True', 'WiFi': 'None', 'RestaurantsAttire': "'casual'", 'BusinessParking': 'None', 'RestaurantsPriceRange2': '1', 'Ambience': 'None', 'GoodForMeal': 'None', 'RestaurantsDelivery': 'True', 'Caters': 'False', 'DriveThru': 'True'}</data>
+      <data key="d16">Restaurants, Chicken Wings, Food, Chicken Shop, Fast Food</data>
+      <data key="d17">{'Monday': '10:0-22:0', 'Tuesday': '10:0-22:0', 'Wednesday': '10:0-22:0', 'Thursday': '10:0-22:0', 'Friday': '10:0-22:0', 'Saturday': '10:0-22:0', 'Sunday': '10:0-22:0'}</data>
+      <data key="d5">KFC</data>
+    </node>
+    <node id="YWcH3SLyRIBHIBBgudqZLw">
+      <data key="d0">business</data>
+      <data key="d6">YWcH3SLyRIBHIBBgudqZLw</data>
+      <data key="d1">Taco Bell</data>
+      <data key="d7">1616 Camp Jackson Road</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5532348</data>
+      <data key="d12">-90.1661599</data>
+      <data key="d13">1.5</data>
+      <data key="d2">8</data>
+      <data key="d14">1</data>
+      <data key="d15">{'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}", 'RestaurantsGoodForGroups': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsReservations': 'False', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}", 'RestaurantsAttire': "u'casual'", 'GoodForKids': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsTableService': 'False', 'WiFi': "u'free'", 'BusinessAcceptsCreditCards': 'True', 'RestaurantsPriceRange2': '1', 'NoiseLevel': "u'quiet'", 'Alcohol': "u'none'", 'DriveThru': 'True'}</data>
+      <data key="d16">Fast Food, Restaurants, Breakfast &amp; Brunch, Vegetarian, Mexican, Tacos</data>
+      <data key="d17">{'Monday': '10:0-22:0', 'Tuesday': '10:0-22:0', 'Wednesday': '10:0-22:0', 'Thursday': '10:0-22:0', 'Friday': '10:0-22:0', 'Saturday': '10:0-22:0', 'Sunday': '10:0-22:0'}</data>
+      <data key="d5">Taco Bell</data>
+    </node>
+    <node id="ZYdN05c0LC8OMJob0FWQdQ">
+      <data key="d0">user</data>
+      <data key="d1">Sammy</data>
+      <data key="d2">99</data>
+      <data key="d3">3.59</data>
+      <data key="d4">2012-05-28 00:18:19</data>
+      <data key="d5">Sammy</data>
+    </node>
+    <node id="wm3UghkWy48CWlcOHeq_tg">
+      <data key="d0">user</data>
+      <data key="d1">Ronda</data>
+      <data key="d2">16</data>
+      <data key="d3">3.81</data>
+      <data key="d4">2012-10-08 12:46:07</data>
+      <data key="d5">Ronda</data>
+    </node>
+    <node id="3OOK6-fiNy4RKIVu18atVw">
+      <data key="d0">business</data>
+      <data key="d6">3OOK6-fiNy4RKIVu18atVw</data>
+      <data key="d1">Walmart</data>
+      <data key="d7">1511 Camp Jackson Rd</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5559626</data>
+      <data key="d12">-90.1663246</data>
+      <data key="d13">2.0</data>
+      <data key="d2">13</data>
+      <data key="d14">1</data>
+      <data key="d15">{'BusinessParking': 'None', 'RestaurantsPriceRange2': '1', 'BusinessAcceptsCreditCards': 'True'}</data>
+      <data key="d16">Department Stores, Fashion, Electronics, Grocery, Discount Store, Drugstores, Shopping, Food, Mobile Phones</data>
+      <data key="d17">{'Monday': '7:0-20:30', 'Tuesday': '7:0-20:30', 'Wednesday': '7:0-20:30', 'Thursday': '7:0-20:30', 'Friday': '7:0-20:30', 'Saturday': '7:0-20:30', 'Sunday': '7:0-20:30'}</data>
+      <data key="d5">Walmart</data>
+    </node>
+    <node id="KeT8uehA2gVy6sycGdl_OQ">
+      <data key="d0">business</data>
+      <data key="d6">KeT8uehA2gVy6sycGdl_OQ</data>
+      <data key="d1">Domino's Pizza</data>
+      <data key="d7">1302 Camp Jackson Rd, # 1</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5581433</data>
+      <data key="d12">-90.1716731</data>
+      <data key="d13">1.5</data>
+      <data key="d2">7</data>
+      <data key="d14">1</data>
+      <data key="d15">{'RestaurantsTakeOut': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsReservations': 'False', 'RestaurantsPriceRange2': '1', 'BusinessAcceptsCreditCards': 'True', 'Caters': 'True', 'OutdoorSeating': 'True'}</data>
+      <data key="d16">Restaurants, Chicken Wings, Sandwiches, Pizza</data>
+      <data key="d17">{'Monday': '10:0-0:0', 'Tuesday': '10:0-0:0', 'Wednesday': '10:0-0:0', 'Thursday': '10:0-0:0', 'Friday': '10:0-1:0', 'Saturday': '10:0-1:0', 'Sunday': '10:0-0:0'}</data>
+      <data key="d5">Domino's Pizza</data>
+    </node>
+    <node id="HRZmsTNLtZRBbJUuWjzLTg">
+      <data key="d0">business</data>
+      <data key="d6">HRZmsTNLtZRBbJUuWjzLTg</data>
+      <data key="d1">Captain D's</data>
+      <data key="d7">1517 Camp Jackson Rd</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5545747033</data>
+      <data key="d12">-90.1676300168</data>
+      <data key="d13">3.5</data>
+      <data key="d2">7</data>
+      <data key="d14">1</data>
+      <data key="d15">{'GoodForKids': 'True', 'RestaurantsGoodForGroups': 'True', 'RestaurantsReservations': 'False', 'RestaurantsAttire': "u'casual'", 'RestaurantsTakeOut': 'True', 'OutdoorSeating': 'False', 'BusinessAcceptsCreditCards': 'True', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'WheelchairAccessible': 'True', 'Caters': 'False', 'RestaurantsPriceRange2': '1', 'RestaurantsTableService': 'False', 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'BikeParking': 'True', 'Alcohol': "u'none'", 'NoiseLevel': "u'average'", 'HasTV': 'True', 'WiFi': "u'no'", 'DogsAllowed': 'False', 'RestaurantsDelivery': 'True'}</data>
+      <data key="d16">Fish &amp; Chips, American (Traditional), Restaurants, Seafood, Fast Food</data>
+      <data key="d17">{'Monday': '0:0-0:0', 'Tuesday': '10:30-21:0', 'Wednesday': '10:30-21:0', 'Thursday': '10:30-21:0', 'Friday': '10:30-18:0', 'Saturday': '10:30-21:0', 'Sunday': '10:30-21:0'}</data>
+      <data key="d5">Captain D's</data>
+    </node>
+    <node id="ZLjJPu8ebws1EM0lUZQ_Dw">
+      <data key="d0">user</data>
+      <data key="d1">John</data>
+      <data key="d2">95</data>
+      <data key="d3">3.54</data>
+      <data key="d4">2013-11-29 04:16:25</data>
+      <data key="d5">John</data>
+    </node>
+    <node id="fxeRdFmgY6tbTyidpcdFLw">
+      <data key="d0">user</data>
+      <data key="d1">Tanya</data>
+      <data key="d2">483</data>
+      <data key="d3">3.29</data>
+      <data key="d4">2010-05-14 20:36:57</data>
+      <data key="d5">Tanya</data>
+    </node>
+    <node id="v_jBLgeJ1z5uVDzpZ-Wbkw">
+      <data key="d0">business</data>
+      <data key="d6">v_jBLgeJ1z5uVDzpZ-Wbkw</data>
+      <data key="d1">Sawmill BBQ</data>
+      <data key="d7">4060 Mississippi Ave</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.573296</data>
+      <data key="d12">-90.186998</data>
+      <data key="d13">4.5</data>
+      <data key="d2">89</data>
+      <data key="d14">1</data>
+      <data key="d15">{'GoodForKids': 'True', 'BikeParking': 'True', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'RestaurantsReservations': 'True', 'RestaurantsPriceRange2': '1', 'BusinessAcceptsCreditCards': 'True', 'RestaurantsDelivery': 'True', 'Alcohol': "u'beer_and_wine'", 'OutdoorSeating': 'True', 'HasTV': 'True', 'WiFi': "'no'", 'NoiseLevel': "u'average'", 'RestaurantsTakeOut': 'True', 'RestaurantsGoodForGroups': 'True', 'Caters': 'True', 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}", 'WheelchairAccessible': 'True', 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}", 'RestaurantsAttire': "u'casual'"}</data>
+      <data key="d16">Specialty Food, Sandwiches, Barbeque, Restaurants, Food, Breakfast &amp; Brunch</data>
+      <data key="d17">{'Monday': '7:0-20:0', 'Tuesday': '7:0-20:0', 'Wednesday': '7:0-20:0', 'Thursday': '7:0-20:0', 'Friday': '7:0-20:0', 'Saturday': '11:0-20:0', 'Sunday': '12:0-19:0'}</data>
+      <data key="d5">Sawmill BBQ</data>
+    </node>
+    <node id="q1LlkxzJ1VEzKedgPrcDlw">
+      <data key="d0">business</data>
+      <data key="d6">q1LlkxzJ1VEzKedgPrcDlw</data>
+      <data key="d1">Rally's</data>
+      <data key="d7">1600 Camp Jackson Road</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5540526</data>
+      <data key="d12">-90.166927</data>
+      <data key="d13">1.5</data>
+      <data key="d2">5</data>
+      <data key="d14">1</data>
+      <data key="d15">{'WiFi': "u'no'", 'GoodForKids': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsAttire': "u'casual'", 'RestaurantsGoodForGroups': 'False', 'NoiseLevel': "u'average'", 'Alcohol': "u'none'", 'RestaurantsPriceRange2': '1', 'Caters': 'False', 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'HasTV': 'True', 'OutdoorSeating': 'False', 'RestaurantsReservations': 'False', 'RestaurantsDelivery': 'True', 'BusinessAcceptsCreditCards': 'True'}</data>
+      <data key="d16">Restaurants, Burgers, Fast Food</data>
+      <data key="d17">{'Monday': '10:0-3:0', 'Tuesday': '10:0-3:0', 'Wednesday': '10:0-3:0', 'Thursday': '10:0-3:0', 'Friday': '10:0-4:0', 'Saturday': '10:0-4:0', 'Sunday': '10:0-3:0'}</data>
+      <data key="d5">Rally's</data>
+    </node>
+    <node id="6BJwqc8rShdKHyizuR0Q5g">
+      <data key="d0">business</data>
+      <data key="d6">6BJwqc8rShdKHyizuR0Q5g</data>
+      <data key="d1">Unch's Bar And Grill</data>
+      <data key="d7">103 Water St</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5699951227</data>
+      <data key="d12">-90.1901185572</data>
+      <data key="d13">4.0</data>
+      <data key="d2">7</data>
+      <data key="d14">1</data>
+      <data key="d15">{'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}", 'RestaurantsGoodForGroups': 'True', 'BusinessAcceptsCreditCards': 'True', 'GoodForKids': 'True', 'Alcohol': "u'full_bar'", 'CoatCheck': 'False', 'Caters': 'True', 'DogsAllowed': 'True', 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}", 'RestaurantsReservations': 'True', 'Smoking': "u'outdoor'", 'HasTV': 'True', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'OutdoorSeating': 'True', 'RestaurantsTableService': 'True', 'BikeParking': 'True', 'HappyHour': 'True', 'RestaurantsTakeOut': 'True', 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': False, 'video': False, 'karaoke': False}"}</data>
+      <data key="d16">American (Traditional), Nightlife, Bars, Burgers, Restaurants, Sandwiches, Sports Bars, Karaoke</data>
+      <data key="d17">{'Monday': '11:0-1:0', 'Tuesday': '11:0-1:0', 'Wednesday': '11:0-1:0', 'Thursday': '11:0-1:0', 'Friday': '11:0-2:0', 'Saturday': '11:0-2:0', 'Sunday': '11:0-1:0'}</data>
+      <data key="d5">Unch's Bar And Grill</data>
+    </node>
+    <node id="9Bf4mhvCmA6sv0hpwi3jDw">
+      <data key="d0">business</data>
+      <data key="d6">9Bf4mhvCmA6sv0hpwi3jDw</data>
+      <data key="d1">Quality Inn &amp; Suites Near St. Louis And I-255</data>
+      <data key="d7">1607 Pontiac Drive</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.555865</data>
+      <data key="d12">-90.164445</data>
+      <data key="d13">3.0</data>
+      <data key="d2">14</data>
+      <data key="d14">1</data>
+      <data key="d15">{'BusinessAcceptsCreditCards': 'True', 'RestaurantsPriceRange2': '2', 'WiFi': "u'free'"}</data>
+      <data key="d16">Event Planning &amp; Services, Hotels &amp; Travel, Hotels, Home Services, Home Cleaning</data>
+      <data key="d17">{'Monday': '0:0-0:0', 'Tuesday': '0:0-0:0', 'Wednesday': '0:0-0:0', 'Thursday': '0:0-0:0', 'Friday': '0:0-0:0', 'Saturday': '0:0-0:0', 'Sunday': '0:0-0:0'}</data>
+      <data key="d5">Quality Inn &amp; Suites Near St. Louis And I-255</data>
+    </node>
+    <node id="ic2VmDDJcH9I06LU36eiAw">
+      <data key="d0">business</data>
+      <data key="d6">ic2VmDDJcH9I06LU36eiAw</data>
+      <data key="d1">Schnucks Cahokia</data>
+      <data key="d7">1615 Camp Jackson</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5548396</data>
+      <data key="d12">-90.164829</data>
+      <data key="d13">3.0</data>
+      <data key="d2">6</data>
+      <data key="d14">1</data>
+      <data key="d15">{'RestaurantsPriceRange2': '2', 'BusinessParking': 'None', 'BusinessAcceptsCreditCards': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsDelivery': 'True'}</data>
+      <data key="d16">Food, Grocery</data>
+      <data key="d17">{'Monday': '6:0-21:0', 'Tuesday': '6:0-21:0', 'Wednesday': '6:0-21:0', 'Thursday': '6:0-21:0', 'Friday': '6:0-21:0', 'Saturday': '6:0-21:0', 'Sunday': '6:0-21:0'}</data>
+      <data key="d5">Schnucks Cahokia</data>
+    </node>
+    <node id="s5tkn1ngXJff90tP_iQ0YA">
+      <data key="d0">business</data>
+      <data key="d6">s5tkn1ngXJff90tP_iQ0YA</data>
+      <data key="d1">Hardee's</data>
+      <data key="d7">1508 Camp Jackson Rd</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5550137813</data>
+      <data key="d12">-90.1680062457</data>
+      <data key="d13">2.5</data>
+      <data key="d2">8</data>
+      <data key="d14">0</data>
+      <data key="d15">{'GoodForKids': 'True', 'RestaurantsReservations': 'False', 'OutdoorSeating': 'False', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}", 'DriveThru': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsGoodForGroups': 'True', 'HasTV': 'True', 'Alcohol': "u'none'", 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'RestaurantsAttire': "u'casual'", 'NoiseLevel': "u'average'", 'BusinessAcceptsCreditCards': 'True', 'RestaurantsPriceRange2': '1'}</data>
+      <data key="d16">Restaurants, Burgers, Fast Food</data>
+      <data key="d17">{'Monday': '5:0-22:0', 'Tuesday': '5:0-22:0', 'Wednesday': '5:0-22:0', 'Thursday': '5:0-22:0', 'Friday': '5:0-23:0', 'Saturday': '5:0-22:0', 'Sunday': '6:0-22:0'}</data>
+      <data key="d5">Hardee's</data>
+    </node>
+    <node id="O998e7eUN45YDid-GxM1yw">
+      <data key="d0">business</data>
+      <data key="d6">O998e7eUN45YDid-GxM1yw</data>
+      <data key="d1">Stingers</data>
+      <data key="d7">440 Falling Springs Rd</data>
+      <data key="d8">Cahokia</data>
+      <data key="d9">IL</data>
+      <data key="d10">62206</data>
+      <data key="d11">38.5711498651</data>
+      <data key="d12">-90.1852790355</data>
+      <data key="d13">4.0</data>
+      <data key="d2">13</data>
+      <data key="d14">1</data>
+      <data key="d15">{'HasTV': 'True', 'RestaurantsPriceRange2': '1', 'RestaurantsTakeOut': 'True', 'BusinessAcceptsCreditCards': 'True', 'RestaurantsAttire': "'casual'", 'NoiseLevel': "u'average'", 'RestaurantsGoodForGroups': 'True', 'OutdoorSeating': 'True', 'Caters': 'True', 'RestaurantsReservations': 'False', 'WiFi': "u'free'", 'BikeParking': 'True', 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}", 'RestaurantsDelivery': 'True', 'BusinessParking': "{'garage': False, 'street': None, 'validated': False, 'lot': True, 'valet': False}", 'GoodForKids': 'True', 'Alcohol': "u'full_bar'"}</data>
+      <data key="d16">Pizza, Restaurants, Breakfast &amp; Brunch, American (New), American (Traditional)</data>
+      <data key="d17">{'Monday': '8:0-14:0', 'Tuesday': '8:0-21:0', 'Wednesday': '8:0-21:0', 'Thursday': '8:0-21:0', 'Friday': '8:0-21:0', 'Saturday': '8:0-20:0', 'Sunday': '8:0-18:0'}</data>
+      <data key="d5">Stingers</data>
+    </node>
+    <edge source="dxnaNew02Mu_391Xi1z2cQ" target="59hqWP1E1pfjshhHSu0OxA" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2018-01-07 18:34:00</data>
+    </edge>
+    <edge source="dxnaNew02Mu_391Xi1z2cQ" target="YWcH3SLyRIBHIBBgudqZLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2017-08-23 20:37:25</data>
+    </edge>
+    <edge source="dxnaNew02Mu_391Xi1z2cQ" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2017-08-24 19:04:01</data>
+    </edge>
+    <edge source="dxnaNew02Mu_391Xi1z2cQ" target="9Bf4mhvCmA6sv0hpwi3jDw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2017-08-23 01:29:09</data>
+    </edge>
+    <edge source="cVOC5jLNpP78yf5kh-gx_g" target="wm3UghkWy48CWlcOHeq_tg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2012-10-08 19:24:14</data>
+    </edge>
+    <edge source="cVOC5jLNpP78yf5kh-gx_g" target="ZYdN05c0LC8OMJob0FWQdQ" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2012-12-24 12:48:11</data>
+    </edge>
+    <edge source="cVOC5jLNpP78yf5kh-gx_g" target="ZYdN05c0LC8OMJob0FWQdQ" id="1">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2012-05-28 12:23:57</data>
+    </edge>
+    <edge source="cVOC5jLNpP78yf5kh-gx_g" target="ZYdN05c0LC8OMJob0FWQdQ" id="2">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2017-07-22 11:09:16</data>
+    </edge>
+    <edge source="cVOC5jLNpP78yf5kh-gx_g" target="fxeRdFmgY6tbTyidpcdFLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2010-12-30 14:57:46</data>
+    </edge>
+    <edge source="59hqWP1E1pfjshhHSu0OxA" target="fxeRdFmgY6tbTyidpcdFLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2015-01-22 17:06:23</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="3OOK6-fiNy4RKIVu18atVw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2014-04-14 22:12:13</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="O998e7eUN45YDid-GxM1yw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2014-03-13 17:13:54</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="O998e7eUN45YDid-GxM1yw" id="1">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2012-05-28 13:45:38</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="6BJwqc8rShdKHyizuR0Q5g" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2017-07-25 12:46:29</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="ic2VmDDJcH9I06LU36eiAw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2015-06-24 18:07:00</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2018-07-28 14:19:24</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="1">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2014-03-19 15:15:08</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="2">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2012-05-28 13:06:59</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="HRZmsTNLtZRBbJUuWjzLTg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2018-07-28 14:43:45</data>
+    </edge>
+    <edge source="ZYdN05c0LC8OMJob0FWQdQ" target="s5tkn1ngXJff90tP_iQ0YA" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2018-07-28 14:25:14</data>
+    </edge>
+    <edge source="wm3UghkWy48CWlcOHeq_tg" target="3OOK6-fiNy4RKIVu18atVw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2012-10-08 19:27:26</data>
+    </edge>
+    <edge source="wm3UghkWy48CWlcOHeq_tg" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2012-10-08 19:20:46</data>
+    </edge>
+    <edge source="3OOK6-fiNy4RKIVu18atVw" target="fxeRdFmgY6tbTyidpcdFLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2012-12-28 01:23:32</data>
+    </edge>
+    <edge source="KeT8uehA2gVy6sycGdl_OQ" target="fxeRdFmgY6tbTyidpcdFLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2012-12-20 05:15:51</data>
+    </edge>
+    <edge source="HRZmsTNLtZRBbJUuWjzLTg" target="fxeRdFmgY6tbTyidpcdFLw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2012-05-23 22:09:45</data>
+    </edge>
+    <edge source="ZLjJPu8ebws1EM0lUZQ_Dw" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2016-10-27 12:41:44</data>
+    </edge>
+    <edge source="ZLjJPu8ebws1EM0lUZQ_Dw" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="1">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2018-11-27 04:23:15</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="q1LlkxzJ1VEzKedgPrcDlw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2012-06-01 17:30:47</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="O998e7eUN45YDid-GxM1yw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2013-05-13 02:20:18</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="O998e7eUN45YDid-GxM1yw" id="1">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2010-09-26 03:03:40</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="ic2VmDDJcH9I06LU36eiAw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2012-04-20 12:21:22</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="v_jBLgeJ1z5uVDzpZ-Wbkw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2010-05-16 00:55:42</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="s5tkn1ngXJff90tP_iQ0YA" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2011-04-11 17:25:36</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="s5tkn1ngXJff90tP_iQ0YA" id="1">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2013-04-22 12:55:18</data>
+    </edge>
+  </graph>
+</graphml>

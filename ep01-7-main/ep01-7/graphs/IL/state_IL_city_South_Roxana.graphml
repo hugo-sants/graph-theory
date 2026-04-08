@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="ANYJZyOVYE7b0QGRjf0JgQ">
+  <data key="type">business</data>
+  <data key="business_id">ANYJZyOVYE7b0QGRjf0JgQ</data>
+  <data key="name">CP Pinball</data>
+  <data key="address">115 Sinclair Ave</data>
+  <data key="city">South Roxana</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62087</data>
+  <data key="latitude">38.832355</data>
+  <data key="longitude">-90.0633475</data>
+  <data key="stars">5.0</data>
+  <data key="review_count">17</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'GoodForKids': 'True'}</data>
+  <data key="categories">Arts &amp; Entertainment, Arcades, Amusement Parks, Active Life</data>
+  <data key="hours">{'Saturday': '12:0-0:0'}</data>
+  <data key="label">CP Pinball</data>
+</node>
+<node id="z5UbpqwYGS_moiopUrXtdA">
+  <data key="type">user</data>
+  <data key="name">Anne</data>
+  <data key="review_count">35</data>
+  <data key="average_stars">3.95</data>
+  <data key="yelping_since">2013-01-18 07:05:40</data>
+  <data key="label">Anne</data>
+</node>
+<node id="7NjnBzxFvumWrOYJxWc4EQ">
+  <data key="type">user</data>
+  <data key="name">William</data>
+  <data key="review_count">115</data>
+  <data key="average_stars">4.01</data>
+  <data key="yelping_since">2010-08-31 13:04:55</data>
+  <data key="label">William</data>
+</node>
+<node id="AXb4hnyx03qqICu6nllTqA">
+  <data key="type">user</data>
+  <data key="name">F</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.5</data>
+  <data key="yelping_since">2010-01-08 14:22:18</data>
+  <data key="label">F</data>
+</node>
+<node id="lYQk0R6sPfo3WeX-l_5BuA">
+  <data key="type">user</data>
+  <data key="name">Christopher</data>
+  <data key="review_count">1396</data>
+  <data key="average_stars">3.35</data>
+  <data key="yelping_since">2009-04-19 16:18:30</data>
+  <data key="label">Christopher</data>
+</node>
+<node id="5SRZ8lYZfbQKkk0fCeUhsw">
+  <data key="type">user</data>
+  <data key="name">Chadd</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2017-11-19 07:59:31</data>
+  <data key="label">Chadd</data>
+</node>
+<node id="_I0Ip-eMZrXMF_eGN2hhAA">
+  <data key="type">user</data>
+  <data key="name">Rod</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2015-01-24 01:08:30</data>
+  <data key="label">Rod</data>
+</node>
+<node id="tIx-c6XfZjlpsFlATT_i7g">
+  <data key="type">user</data>
+  <data key="name">Victoria</data>
+  <data key="review_count">11</data>
+  <data key="average_stars">4.55</data>
+  <data key="yelping_since">2015-06-05 22:19:04</data>
+  <data key="label">Victoria</data>
+</node>
+<node id="MNOO7OZE08hnOrvyQgQD0g">
+  <data key="type">user</data>
+  <data key="name">Connie</data>
+  <data key="review_count">50</data>
+  <data key="average_stars">4.34</data>
+  <data key="yelping_since">2011-01-04 18:37:48</data>
+  <data key="label">Connie</data>
+</node>
+<node id="ivHlD7Mp7J6JtzGHXSZLiw">
+  <data key="type">user</data>
+  <data key="name">Brian</data>
+  <data key="review_count">186</data>
+  <data key="average_stars">3.49</data>
+  <data key="yelping_since">2010-01-28 15:43:53</data>
+  <data key="label">Brian</data>
+</node>
+<node id="sACZqlqVgU4cTrfEM82HoA">
+  <data key="type">user</data>
+  <data key="name">Grace</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2017-11-12 18:59:20</data>
+  <data key="label">Grace</data>
+</node>
+<node id="VrFrTFYhq1qz56T2OnV1Fg">
+  <data key="type">user</data>
+  <data key="name">steve</data>
+  <data key="review_count">46</data>
+  <data key="average_stars">3.31</data>
+  <data key="yelping_since">2011-08-09 18:37:09</data>
+  <data key="label">steve</data>
+</node>
+<node id="KAcwxzwWtJm-OfgjdjPYdQ">
+  <data key="type">user</data>
+  <data key="name">Mel</data>
+  <data key="review_count">92</data>
+  <data key="average_stars">4.4</data>
+  <data key="yelping_since">2011-06-29 14:12:49</data>
+  <data key="label">Mel</data>
+</node>
+<node id="h2_5Vq6D08cYZ6jDN2jgzg">
+  <data key="type">user</data>
+  <data key="name">Dylan</data>
+  <data key="review_count">12</data>
+  <data key="average_stars">4.08</data>
+  <data key="yelping_since">2012-05-14 19:23:32</data>
+  <data key="label">Dylan</data>
+</node>
+<node id="gW-UD-NJ03CKXfqJ_E3wRQ">
+  <data key="type">user</data>
+  <data key="name">Erica</data>
+  <data key="review_count">63</data>
+  <data key="average_stars">3.99</data>
+  <data key="yelping_since">2010-04-10 03:28:36</data>
+  <data key="label">Erica</data>
+</node>
+<node id="lQsaZ62wUE7wDOjmwVVaeg">
+  <data key="type">user</data>
+  <data key="name">Jason</data>
+  <data key="review_count">52</data>
+  <data key="average_stars">3.44</data>
+  <data key="yelping_since">2010-08-06 00:38:47</data>
+  <data key="label">Jason</data>
+</node>
+<node id="DLE1NmAmc9Yt2QqBK48Tfg">
+  <data key="type">user</data>
+  <data key="name">Mark</data>
+  <data key="review_count">436</data>
+  <data key="average_stars">3.81</data>
+  <data key="yelping_since">2008-12-12 02:02:09</data>
+  <data key="label">Mark</data>
+</node>
+<node id="DRUQeG9OOpnCjpzEmeIvSA">
+  <data key="type">user</data>
+  <data key="name">Todd</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2013-01-05 04:09:35</data>
+  <data key="label">Todd</data>
+</node>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="z5UbpqwYGS_moiopUrXtdA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-10-23 23:03:52</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="z5UbpqwYGS_moiopUrXtdA" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-05-06 13:59:51</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="7NjnBzxFvumWrOYJxWc4EQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-03-04 23:39:42</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="AXb4hnyx03qqICu6nllTqA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2010-01-13 16:13:59</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="lYQk0R6sPfo3WeX-l_5BuA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2012-10-15 15:04:47</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="5SRZ8lYZfbQKkk0fCeUhsw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-11-21 19:49:22</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="_I0Ip-eMZrXMF_eGN2hhAA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-01-24 01:14:05</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="tIx-c6XfZjlpsFlATT_i7g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-04-02 10:14:13</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="MNOO7OZE08hnOrvyQgQD0g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2012-02-24 15:59:20</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="ivHlD7Mp7J6JtzGHXSZLiw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2014-05-13 04:48:55</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="sACZqlqVgU4cTrfEM82HoA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-10-07 05:27:45</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="VrFrTFYhq1qz56T2OnV1Fg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-11-18 23:21:13</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="KAcwxzwWtJm-OfgjdjPYdQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2011-10-25 14:19:59</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="h2_5Vq6D08cYZ6jDN2jgzg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-04-09 20:09:04</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="gW-UD-NJ03CKXfqJ_E3wRQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2011-10-18 16:45:09</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="lQsaZ62wUE7wDOjmwVVaeg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2021-10-29 12:42:49</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="DLE1NmAmc9Yt2QqBK48Tfg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2021-08-03 02:58:34</data>
+</edge>
+<edge source="ANYJZyOVYE7b0QGRjf0JgQ" target="DRUQeG9OOpnCjpzEmeIvSA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-01-19 21:19:04</data>
+</edge>
+</graph></graphml>

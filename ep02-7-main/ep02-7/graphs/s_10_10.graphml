@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type_1" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="u7_3L1NBWgxhBM_B-cmmnA">
+  <data key="type_1">business</data>
+  <data key="business_id">u7_3L1NBWgxhBM_B-cmmnA</data>
+  <data key="name">Pizzeria Vetri</data>
+  <data key="address">1939 Callowhill St</data>
+  <data key="city">Philadelphia</data>
+  <data key="state">PA</data>
+  <data key="postal_code">19130</data>
+  <data key="latitude">39.960888</data>
+  <data key="longitude">-75.171213</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">651</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'GoodForKids': 'True', 'HasTV': 'False', 'BusinessAcceptsCreditCards': 'True', 'NoiseLevel': "u'average'", 'RestaurantsPriceRange2': '2', 'Alcohol': "u'beer_and_wine'", 'RestaurantsGoodForGroups': 'True', 'WiFi': "u'free'", 'Caters': 'True', 'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}", 'ByAppointmentOnly': 'False', 'BikeParking': 'True', 'RestaurantsAttire': "u'casual'", 'HappyHour': 'False', 'RestaurantsReservations': 'True', 'OutdoorSeating': 'True', 'DogsAllowed': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsTakeOut': 'True', 'WheelchairAccessible': 'True', 'Ambience': "{u'divey': False, u'hipster': None, u'casual': True, u'touristy': False, u'trendy': None, u'intimate': False, u'romantic': False, u'classy': False, u'upscale': False}", 'BusinessAcceptsBitcoin': 'False', 'RestaurantsTableService': 'True', 'GoodForMeal': "{'dessert': None, 'latenight': None, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"}</data>
+  <data key="categories">Italian, Pizza, Restaurants, Salad</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Tuesday': '11:30-21:0', 'Wednesday': '11:30-21:0', 'Thursday': '11:30-16:0', 'Friday': '11:30-22:0', 'Saturday': '11:30-22:0', 'Sunday': '11:30-21:0'}</data>
+  <data key="label">Pizzeria Vetri</data>
+</node>
+<node id="ytynqOUb3hjKeJfRj5Tshw">
+  <data key="type_1">business</data>
+  <data key="business_id">ytynqOUb3hjKeJfRj5Tshw</data>
+  <data key="name">Reading Terminal Market</data>
+  <data key="address">51 N 12th St</data>
+  <data key="city">Philadelphia</data>
+  <data key="state">PA</data>
+  <data key="postal_code">19107</data>
+  <data key="latitude">39.9533414645</data>
+  <data key="longitude">-75.1588545174</data>
+  <data key="stars">4.5</data>
+  <data key="review_count">5721</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsGoodForGroups': 'True', 'RestaurantsPriceRange2': '2', 'Corkage': 'False', 'BikeParking': 'True', 'RestaurantsAttire': "'casual'", 'BusinessAcceptsCreditCards': 'True', 'GoodForKids': 'True', 'Alcohol': "'beer_and_wine'", 'NoiseLevel': "u'loud'", 'RestaurantsReservations': 'False', 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': True, 'breakfast': True}", 'BYOBCorkage': "'yes_free'", 'DogsAllowed': 'False', 'BusinessParking': "{'garage': True, 'street': True, 'validated': True, 'lot': True, 'valet': False}", 'Ambience': "{'touristy': True, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}", 'Caters': 'False', 'WiFi': "u'no'", 'HasTV': 'True', 'OutdoorSeating': 'None', 'RestaurantsDelivery': 'True', 'RestaurantsTakeOut': 'True', 'ByAppointmentOnly': 'False'}</data>
+  <data key="categories">Candy Stores, Shopping, Department Stores, Fast Food, Beer, Wine &amp; Spirits, Fruits &amp; Veggies, Chinese, Food, Ice Cream &amp; Frozen Yogurt, Desserts, Seafood, Health Markets, Bagels, Cheese Shops, Shopping Centers, Chocolatiers &amp; Shops, Meat Shops, Public Markets, Food Court, Wineries, Local Flavor, Ethnic Food, Restaurants, Specialty Food, Arts &amp; Entertainment, Juice Bars &amp; Smoothies, Seafood Markets, Farmers Market, Coffee &amp; Tea, Bakeries, Food Stands, Dinner Theater, Sporting Goods, Grocery, Fashion</data>
+  <data key="hours">{'Monday': '8:0-18:0', 'Tuesday': '8:0-18:0', 'Wednesday': '8:0-18:0', 'Thursday': '8:0-18:0', 'Friday': '8:0-18:0', 'Saturday': '8:0-18:0', 'Sunday': '8:0-18:0'}</data>
+  <data key="label">Reading Terminal Market</data>
+</node>
+<node id="-OKB11ypR4C8wWlonBFIGw">
+  <data key="type_1">business</data>
+  <data key="business_id">-OKB11ypR4C8wWlonBFIGw</data>
+  <data key="name">Atlantis Casino Resort Spa</data>
+  <data key="address">3800 S Virginia St</data>
+  <data key="city">Reno</data>
+  <data key="state">NV</data>
+  <data key="postal_code">89502</data>
+  <data key="latitude">39.4889071</data>
+  <data key="longitude">-119.7936863</data>
+  <data key="stars">3.5</data>
+  <data key="review_count">1218</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'NoiseLevel': "u'average'", 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}", 'Alcohol': "u'full_bar'", 'RestaurantsDelivery': 'True', 'RestaurantsReservations': 'True', 'ByAppointmentOnly': 'False', 'BusinessAcceptsCreditCards': 'True', 'WiFi': "u'free'", 'BikeParking': 'True', 'OutdoorSeating': 'False', 'RestaurantsGoodForGroups': 'True', 'HasTV': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsPriceRange2': '2', 'RestaurantsTableService': 'True', 'Caters': 'False', 'RestaurantsAttire': "u'casual'", 'GoodForMeal': "{'dessert': True, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}", 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'GoodForKids': 'False', 'DogsAllowed': 'False'}</data>
+  <data key="categories">Casinos, Hotels &amp; Travel, Arts &amp; Entertainment, Resorts, Beauty &amp; Spas, Day Spas</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Tuesday': '0:0-0:0', 'Wednesday': '0:0-0:0', 'Thursday': '0:0-0:0', 'Friday': '0:0-0:0', 'Saturday': '0:0-0:0', 'Sunday': '0:0-0:0'}</data>
+  <data key="label">Atlantis Casino Resort Spa</data>
+</node>
+<node id="uyc-S7lauYjzouYQ2TM76A">
+  <data key="type_1">business</data>
+  <data key="business_id">uyc-S7lauYjzouYQ2TM76A</data>
+  <data key="name">Papa John's Pizza</data>
+  <data key="address">9817 W Florissant Ave</data>
+  <data key="city">Saint Louis</data>
+  <data key="state">MO</data>
+  <data key="postal_code">63136</data>
+  <data key="latitude">38.7461593</data>
+  <data key="longitude">-90.2798145</data>
+  <data key="stars">2.0</data>
+  <data key="review_count">9</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsGoodForGroups': 'True', 'Ambience': "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'GoodForKids': 'True', 'RestaurantsPriceRange2': '1', 'RestaurantsDelivery': 'True', 'NoiseLevel': "'very_loud'", 'RestaurantsAttire': "'casual'", 'RestaurantsReservations': 'False', 'WiFi': "'no'", 'RestaurantsTakeOut': 'True', 'BusinessAcceptsCreditCards': 'True'}</data>
+  <data key="categories">Pizza, Restaurants</data>
+  <data key="hours" />
+  <data key="label">Papa John's Pizza</data>
+</node>
+<node id="ompDR5sUDpoI6gnTldmneQ">
+  <data key="type_1">business</data>
+  <data key="business_id">ompDR5sUDpoI6gnTldmneQ</data>
+  <data key="name">The Praline Connection</data>
+  <data key="address">542 Frenchmen St</data>
+  <data key="city">New Orleans</data>
+  <data key="state">LA</data>
+  <data key="postal_code">70116</data>
+  <data key="latitude">29.9634035</data>
+  <data key="longitude">-90.0579092</data>
+  <data key="stars">3.5</data>
+  <data key="review_count">770</data>
+  <data key="is_open">0</data>
+  <data key="attributes">{'OutdoorSeating': 'False', 'RestaurantsGoodForGroups': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsPriceRange2': '2', 'Alcohol': "u'full_bar'", 'RestaurantsDelivery': 'False', 'BusinessAcceptsCreditCards': 'True', 'NoiseLevel': "u'average'", 'BikeParking': 'True', 'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}", 'RestaurantsReservations': 'False', 'GoodForKids': 'True', 'WiFi': "u'no'", 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}", 'HasTV': 'False', 'Caters': 'False', 'RestaurantsTableService': 'True', 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}", 'RestaurantsAttire': "'casual'", 'DogsAllowed': 'False', 'WheelchairAccessible': 'False'}</data>
+  <data key="categories">Seafood, Cajun/Creole, Candy Stores, Coffee &amp; Tea, Food, Restaurants, Soul Food, Specialty Food</data>
+  <data key="hours">{'Monday': '11:0-22:0', 'Tuesday': '11:0-22:0', 'Wednesday': '11:0-22:0', 'Thursday': '11:0-22:0', 'Friday': '11:0-22:0', 'Saturday': '11:0-22:0', 'Sunday': '11:0-21:0'}</data>
+  <data key="label">The Praline Connection</data>
+</node>
+<node id="Qw7tz-UkPrpXaVidWuab4Q">
+  <data key="type_1">business</data>
+  <data key="business_id">Qw7tz-UkPrpXaVidWuab4Q</data>
+  <data key="name">Philadelphia Museum of Art</data>
+  <data key="address">2600 Benjamin Franklin Pkwy</data>
+  <data key="city">Philadelphia</data>
+  <data key="state">PA</data>
+  <data key="postal_code">19130</data>
+  <data key="latitude">39.965573</data>
+  <data key="longitude">-75.180969</data>
+  <data key="stars">4.5</data>
+  <data key="review_count">767</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'BikeParking': 'True', 'BusinessAcceptsCreditCards': 'True', 'RestaurantsPriceRange2': '2', 'GoodForKids': 'True', 'ByAppointmentOnly': 'False', 'BusinessParking': "{'garage': True, 'street': True, 'validated': True, 'lot': False, 'valet': False}", 'DogsAllowed': 'False', 'RestaurantsDelivery': 'False', 'WiFi': "u'free'", 'RestaurantsAttire': "u'casual'"}</data>
+  <data key="categories">Art Museums, Jazz &amp; Blues, Arts &amp; Crafts, American (New), Shopping, Museums, Nightlife, Art Galleries, Restaurants, Arts &amp; Entertainment</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Tuesday': '10:0-17:0', 'Wednesday': '10:0-17:0', 'Thursday': '10:0-17:0', 'Friday': '10:0-15:0', 'Saturday': '10:0-17:0', 'Sunday': '10:0-17:0'}</data>
+  <data key="label">Philadelphia Museum of Art</data>
+</node>
+<node id="jix9Vl-uIgl39Gqx75QaLg">
+  <data key="type_1">business</data>
+  <data key="business_id">jix9Vl-uIgl39Gqx75QaLg</data>
+  <data key="name">WorldMark Rancho Vistoso</data>
+  <data key="address">13355 N Hidden Springs Dr</data>
+  <data key="city">Oro Valley</data>
+  <data key="state">AZ</data>
+  <data key="postal_code">85755</data>
+  <data key="latitude">32.449547</data>
+  <data key="longitude">-110.977584</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">28</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsPriceRange2': '3', 'BusinessAcceptsCreditCards': 'True', 'WiFi': "'paid'"}</data>
+  <data key="categories">Hotels &amp; Travel, Resorts, Event Planning &amp; Services, Vacation Rentals, Hotels</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Tuesday': '0:0-0:0', 'Wednesday': '0:0-0:0', 'Thursday': '0:0-0:0', 'Friday': '0:0-0:0', 'Saturday': '0:0-0:0', 'Sunday': '0:0-0:0'}</data>
+  <data key="label">WorldMark Rancho Vistoso</data>
+</node>
+<node id="-xaY1TlMf20Ol9QLcDSU6Q">
+  <data key="type_1">business</data>
+  <data key="business_id">-xaY1TlMf20Ol9QLcDSU6Q</data>
+  <data key="name">French Market</data>
+  <data key="address">1008 N Peters St</data>
+  <data key="city">New Orleans</data>
+  <data key="state">LA</data>
+  <data key="postal_code">70116</data>
+  <data key="latitude">29.9590209</data>
+  <data key="longitude">-90.0602077</data>
+  <data key="stars">3.5</data>
+  <data key="review_count">692</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsPriceRange2': '2', 'Caters': 'False', 'BikeParking': 'True', 'BusinessAcceptsCreditCards': 'True', 'DogsAllowed': 'True', 'RestaurantsTakeOut': 'True', 'ByAppointmentOnly': 'False', 'GoodForKids': 'True', 'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}"}</data>
+  <data key="categories">Farmers Market, Specialty Food, Shopping Centers, Fruits &amp; Veggies, Fashion, Gift Shops, Used, Vintage &amp; Consignment, Arts &amp; Crafts, Flea Markets, Art Supplies, Food, Flowers &amp; Gifts, Hotels &amp; Travel, Public Markets, Tours, Shopping</data>
+  <data key="hours">{'Monday': '10:0-17:0', 'Tuesday': '10:0-17:0', 'Wednesday': '10:0-17:0', 'Thursday': '10:0-17:0', 'Friday': '10:0-17:0', 'Saturday': '10:0-17:0', 'Sunday': '10:0-17:0'}</data>
+  <data key="label">French Market</data>
+</node>
+<node id="Xq-8-I0U8Artr7d70SjX-g">
+  <data key="type_1">business</data>
+  <data key="business_id">Xq-8-I0U8Artr7d70SjX-g</data>
+  <data key="name">30th Street Station</data>
+  <data key="address">2955 Market St</data>
+  <data key="city">Philadelphia</data>
+  <data key="state">PA</data>
+  <data key="postal_code">19104</data>
+  <data key="latitude">39.955757</data>
+  <data key="longitude">-75.181993</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">381</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'ByAppointmentOnly': 'False', 'WiFi': "u'free'"}</data>
+  <data key="categories">Public Transportation, Transportation, Train Stations, Public Services &amp; Government, Hotels &amp; Travel</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Tuesday': '0:0-0:0', 'Wednesday': '0:0-0:0', 'Thursday': '0:0-0:0', 'Friday': '0:0-0:0', 'Saturday': '0:0-0:0', 'Sunday': '0:0-0:0'}</data>
+  <data key="label">30th Street Station</data>
+</node>
+<node id="N5QQdPac1cXwOHr-ePr90g">
+  <data key="type_1">business</data>
+  <data key="business_id">N5QQdPac1cXwOHr-ePr90g</data>
+  <data key="name">5th St. Bakehouse</data>
+  <data key="address">953 W 5th St</data>
+  <data key="city">Reno</data>
+  <data key="state">NV</data>
+  <data key="postal_code">89503</data>
+  <data key="latitude">39.5289273</data>
+  <data key="longitude">-119.8280683</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">181</data>
+  <data key="is_open">0</data>
+  <data key="attributes">{'WiFi': "u'free'", 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}", 'OutdoorSeating': 'True', 'Alcohol': "u'beer_and_wine'", 'RestaurantsTakeOut': 'True', 'RestaurantsAttire': "u'casual'", 'BusinessAcceptsCreditCards': 'True', 'RestaurantsReservations': 'True', 'RestaurantsDelivery': 'False', 'RestaurantsPriceRange2': '1', 'Caters': 'True', 'RestaurantsGoodForGroups': 'False', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'GoodForKids': 'True', 'NoiseLevel': "u'average'", 'HasTV': 'True'}</data>
+  <data key="categories">Food, Restaurants, Bakeries, Breakfast &amp; Brunch, American (New)</data>
+  <data key="hours">{'Monday': '7:0-14:0', 'Tuesday': '7:0-14:0', 'Wednesday': '7:0-14:0', 'Thursday': '7:0-14:0', 'Friday': '7:0-14:0', 'Saturday': '8:0-14:0', 'Sunday': '8:0-14:0'}</data>
+  <data key="label">5th St. Bakehouse</data>
+</node>
+<node id="E9kcWJdJUHuTKfQurPljwA">
+  <data key="type_1">user</data>
+  <data key="name">Mike</data>
+  <data key="review_count">358</data>
+  <data key="average_stars">3.73</data>
+  <data key="yelping_since">2008-12-11 22:11:56</data>
+  <data key="label">Mike</data>
+</node>
+<node id="AUi8MPWJ0mLkMfwbui27lg">
+  <data key="type_1">user</data>
+  <data key="name">John</data>
+  <data key="review_count">109</data>
+  <data key="average_stars">3.4</data>
+  <data key="yelping_since">2010-01-07 18:32:04</data>
+  <data key="label">John</data>
+</node>
+<node id="j14WgRoU_-2ZE1aw1dXrJg">
+  <data key="type_1">user</data>
+  <data key="name">Daniel</data>
+  <data key="review_count">4333</data>
+  <data key="average_stars">3.74</data>
+  <data key="yelping_since">2009-01-25 04:35:42</data>
+  <data key="label">Daniel</data>
+</node>
+<node id="2WnXYQFK0hXEoTxPtV2zvg">
+  <data key="type_1">user</data>
+  <data key="name">Steph</data>
+  <data key="review_count">665</data>
+  <data key="average_stars">3.32</data>
+  <data key="yelping_since">2008-07-25 10:41:00</data>
+  <data key="label">Steph</data>
+</node>
+<node id="SZDeASXq7o05mMNLshsdIA">
+  <data key="type_1">user</data>
+  <data key="name">Gwen</data>
+  <data key="review_count">224</data>
+  <data key="average_stars">4.27</data>
+  <data key="yelping_since">2005-11-29 04:38:33</data>
+  <data key="label">Gwen</data>
+</node>
+<node id="qVc8ODYU5SZjKXVBgXdI7w">
+  <data key="type_1">user</data>
+  <data key="name">Walker</data>
+  <data key="review_count">585</data>
+  <data key="average_stars">3.91</data>
+  <data key="yelping_since">2007-01-25 16:47:26</data>
+  <data key="label">Walker</data>
+</node>
+<node id="q_QQ5kBBwlCcbL1s4NVK3g">
+  <data key="type_1">user</data>
+  <data key="name">Jane</data>
+  <data key="review_count">1221</data>
+  <data key="average_stars">3.85</data>
+  <data key="yelping_since">2005-03-14 20:26:35</data>
+  <data key="label">Jane</data>
+</node>
+<edge source="u7_3L1NBWgxhBM_B-cmmnA" target="AUi8MPWJ0mLkMfwbui27lg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2013-11-23 14:29:54</data>
+</edge>
+<edge source="ytynqOUb3hjKeJfRj5Tshw" target="j14WgRoU_-2ZE1aw1dXrJg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2019-08-27 14:01:35</data>
+</edge>
+<edge source="ytynqOUb3hjKeJfRj5Tshw" target="qVc8ODYU5SZjKXVBgXdI7w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2009-04-26 22:28:18</data>
+</edge>
+<edge source="-OKB11ypR4C8wWlonBFIGw" target="2WnXYQFK0hXEoTxPtV2zvg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2009-03-09 08:12:47</data>
+</edge>
+<edge source="-OKB11ypR4C8wWlonBFIGw" target="qVc8ODYU5SZjKXVBgXdI7w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-04-03 15:37:04</data>
+</edge>
+<edge source="uyc-S7lauYjzouYQ2TM76A" target="E9kcWJdJUHuTKfQurPljwA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2013-05-30 03:33:39</data>
+</edge>
+<edge source="ompDR5sUDpoI6gnTldmneQ" target="j14WgRoU_-2ZE1aw1dXrJg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2010-10-11 19:24:56</data>
+</edge>
+<edge source="ompDR5sUDpoI6gnTldmneQ" target="SZDeASXq7o05mMNLshsdIA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2009-04-04 17:49:17</data>
+</edge>
+<edge source="Qw7tz-UkPrpXaVidWuab4Q" target="qVc8ODYU5SZjKXVBgXdI7w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2009-04-26 22:37:40</data>
+</edge>
+<edge source="Qw7tz-UkPrpXaVidWuab4Q" target="j14WgRoU_-2ZE1aw1dXrJg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-08-25 18:29:59</data>
+</edge>
+<edge source="jix9Vl-uIgl39Gqx75QaLg" target="AUi8MPWJ0mLkMfwbui27lg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2010-10-09 15:56:51</data>
+</edge>
+<edge source="-xaY1TlMf20Ol9QLcDSU6Q" target="j14WgRoU_-2ZE1aw1dXrJg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2010-10-11 20:20:21</data>
+</edge>
+<edge source="-xaY1TlMf20Ol9QLcDSU6Q" target="SZDeASXq7o05mMNLshsdIA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2009-04-04 18:10:12</data>
+</edge>
+<edge source="Xq-8-I0U8Artr7d70SjX-g" target="qVc8ODYU5SZjKXVBgXdI7w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2009-05-01 02:00:03</data>
+</edge>
+<edge source="Xq-8-I0U8Artr7d70SjX-g" target="q_QQ5kBBwlCcbL1s4NVK3g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2011-01-30 02:12:37</data>
+</edge>
+<edge source="N5QQdPac1cXwOHr-ePr90g" target="2WnXYQFK0hXEoTxPtV2zvg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2010-12-21 01:06:38</data>
+</edge>
+<edge source="N5QQdPac1cXwOHr-ePr90g" target="2WnXYQFK0hXEoTxPtV2zvg" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2011-01-02 02:31:37</data>
+</edge>
+</graph></graphml>

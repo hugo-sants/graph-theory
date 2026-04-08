@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="zciO1XFzcKlX98Bi3XOGww">
+  <data key="type">business</data>
+  <data key="business_id">zciO1XFzcKlX98Bi3XOGww</data>
+  <data key="name">Subway</data>
+  <data key="address">3901 N Belt W, Ste B</data>
+  <data key="city">Bellville</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62226</data>
+  <data key="latitude">38.5418445487</data>
+  <data key="longitude">-90.0138957454</data>
+  <data key="stars">1.5</data>
+  <data key="review_count">6</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'OutdoorSeating': 'False', 'Alcohol': "u'none'", 'GoodForKids': 'True', 'RestaurantsGoodForGroups': 'True', 'RestaurantsAttire': "u'casual'", 'RestaurantsReservations': 'True', 'BusinessAcceptsCreditCards': 'True', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}", 'RestaurantsPriceRange2': '1', 'BikeParking': 'False', 'Caters': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsTakeOut': 'False'}</data>
+  <data key="categories">Restaurants, Sandwiches, Fast Food</data>
+  <data key="hours">{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '9:0-19:0'}</data>
+  <data key="label">Subway</data>
+</node>
+<node id="-uN9aA3CNY1Bl7M55Dopuw">
+  <data key="type">user</data>
+  <data key="name">Chris</data>
+  <data key="review_count">23</data>
+  <data key="average_stars">2.08</data>
+  <data key="yelping_since">2016-02-02 04:02:54</data>
+  <data key="label">Chris</data>
+</node>
+<node id="cljE73i506vrcDMn5iCKKg">
+  <data key="type">user</data>
+  <data key="name">Jennifer</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2014-01-10 03:18:34</data>
+  <data key="label">Jennifer</data>
+</node>
+<node id="d-RkE0GdceGf9vioVxfEug">
+  <data key="type">user</data>
+  <data key="name">Jamie</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2015-03-12 20:11:26</data>
+  <data key="label">Jamie</data>
+</node>
+<node id="6LZoL721YwfeWOoWmDdqVw">
+  <data key="type">user</data>
+  <data key="name">Michael</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2013-09-03 00:20:28</data>
+  <data key="label">Michael</data>
+</node>
+<node id="wNJ2np3QPt60sIZ0yQvKsQ">
+  <data key="type">user</data>
+  <data key="name">James</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">1.56</data>
+  <data key="yelping_since">2018-05-04 17:18:27</data>
+  <data key="label">James</data>
+</node>
+<node id="l3hdMmKa72s-393IhKHqWg">
+  <data key="type">user</data>
+  <data key="name">Renae</data>
+  <data key="review_count">15</data>
+  <data key="average_stars">3.81</data>
+  <data key="yelping_since">2011-04-21 23:48:44</data>
+  <data key="label">Renae</data>
+</node>
+<edge source="zciO1XFzcKlX98Bi3XOGww" target="-uN9aA3CNY1Bl7M55Dopuw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2019-02-25 23:26:44</data>
+</edge>
+<edge source="zciO1XFzcKlX98Bi3XOGww" target="cljE73i506vrcDMn5iCKKg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2014-01-10 03:23:47</data>
+</edge>
+<edge source="zciO1XFzcKlX98Bi3XOGww" target="d-RkE0GdceGf9vioVxfEug" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2015-11-04 04:24:36</data>
+</edge>
+<edge source="zciO1XFzcKlX98Bi3XOGww" target="6LZoL721YwfeWOoWmDdqVw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-02-12 20:41:23</data>
+</edge>
+<edge source="zciO1XFzcKlX98Bi3XOGww" target="wNJ2np3QPt60sIZ0yQvKsQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2019-10-02 16:44:45</data>
+</edge>
+<edge source="zciO1XFzcKlX98Bi3XOGww" target="l3hdMmKa72s-393IhKHqWg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2012-04-22 03:14:12</data>
+</edge>
+</graph></graphml>

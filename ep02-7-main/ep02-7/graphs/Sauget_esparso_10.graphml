@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="review_date" attr.type="string"/>
+<key id="d19" for="edge" attr.name="review_stars" attr.type="double"/>
+<key id="d18" for="edge" attr.name="type" attr.type="string"/>
+<key id="d17" for="node" attr.name="hours" attr.type="string"/>
+<key id="d16" for="node" attr.name="categories" attr.type="string"/>
+<key id="d15" for="node" attr.name="attributes" attr.type="string"/>
+<key id="d14" for="node" attr.name="is_open" attr.type="long"/>
+<key id="d13" for="node" attr.name="stars" attr.type="double"/>
+<key id="d12" for="node" attr.name="longitude" attr.type="double"/>
+<key id="d11" for="node" attr.name="latitude" attr.type="double"/>
+<key id="d10" for="node" attr.name="postal_code" attr.type="string"/>
+<key id="d9" for="node" attr.name="state" attr.type="string"/>
+<key id="d8" for="node" attr.name="city" attr.type="string"/>
+<key id="d7" for="node" attr.name="address" attr.type="string"/>
+<key id="d6" for="node" attr.name="business_id" attr.type="string"/>
+<key id="d5" for="node" attr.name="label" attr.type="string"/>
+<key id="d4" for="node" attr.name="yelping_since" attr.type="string"/>
+<key id="d3" for="node" attr.name="average_stars" attr.type="double"/>
+<key id="d2" for="node" attr.name="review_count" attr.type="long"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="9fV_u9Bhqr20G6TjJdyUsQ">
+  <data key="d0">user</data>
+  <data key="d1">Samantha</data>
+  <data key="d2">279</data>
+  <data key="d3">4.29</data>
+  <data key="d4">2011-12-30 00:31:01</data>
+  <data key="d5">Samantha</data>
+</node>
+<node id="Kz_tGBA11N3LH7Wnm7jMzQ">
+  <data key="d0">business</data>
+  <data key="d6">Kz_tGBA11N3LH7Wnm7jMzQ</data>
+  <data key="d1">Service Protection Direct</data>
+  <data key="d7">2021 Goose Lake Rd, Ste b</data>
+  <data key="d8">Sauget</data>
+  <data key="d9">IL</data>
+  <data key="d10">62206</data>
+  <data key="d11">38.5640019</data>
+  <data key="d12">-90.1346178</data>
+  <data key="d13">1.5</data>
+  <data key="d2">14</data>
+  <data key="d14">1</data>
+  <data key="d15"></data>
+  <data key="d16">Automotive, Auto Repair</data>
+  <data key="d17"></data>
+  <data key="d5">Service Protection Direct</data>
+</node>
+<node id="nOoskFkYfnF3XCc-V0OMuw">
+  <data key="d0">user</data>
+  <data key="d1">Mike</data>
+  <data key="d2">2</data>
+  <data key="d3">2.0</data>
+  <data key="d4">2016-10-28 23:15:07</data>
+  <data key="d5">Mike</data>
+</node>
+<node id="tOQdMmn0WfJ_xhjYOWnebw">
+  <data key="d0">user</data>
+  <data key="d1">Ryan</data>
+  <data key="d2">78</data>
+  <data key="d3">3.63</data>
+  <data key="d4">2010-12-20 14:50:49</data>
+  <data key="d5">Ryan</data>
+</node>
+<node id="4a15acANJFUsS3KxAzOT0g">
+  <data key="d0">business</data>
+  <data key="d6">4a15acANJFUsS3KxAzOT0g</data>
+  <data key="d1">Country Rock Cabaret</data>
+  <data key="d7">200 Monsanto Ave</data>
+  <data key="d8">Sauget</data>
+  <data key="d9">IL</data>
+  <data key="d10">62201</data>
+  <data key="d11">38.602015</data>
+  <data key="d12">-90.177057</data>
+  <data key="d13">3.5</data>
+  <data key="d2">22</data>
+  <data key="d14">1</data>
+  <data key="d15">{'RestaurantsGoodForGroups': 'True', 'OutdoorSeating': 'False', 'RestaurantsPriceRange2': '2', 'Alcohol': "u'full_bar'", 'BusinessAcceptsCreditCards': 'True', 'NoiseLevel': "'average'", 'HasTV': 'True', 'BikeParking': 'False', 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}", 'BusinessParking': "{u'valet': False, u'garage': None, u'street': None, u'lot': True, u'validated': None}"}</data>
+  <data key="d16">Adult Entertainment, Sports Bars, Nightlife, Bars, Dance Clubs</data>
+  <data key="d17">{'Monday': '19:0-4:0', 'Tuesday': '19:0-4:0', 'Wednesday': '19:0-4:0', 'Thursday': '19:0-4:0', 'Friday': '19:0-6:0', 'Saturday': '19:0-6:0', 'Sunday': '19:0-4:0'}</data>
+  <data key="d5">Country Rock Cabaret</data>
+</node>
+<node id="7f63Nxo3Nrp5kjI8H9uTag">
+  <data key="d0">user</data>
+  <data key="d1">Nicole</data>
+  <data key="d2">16</data>
+  <data key="d3">3.94</data>
+  <data key="d4">2015-04-16 18:56:15</data>
+  <data key="d5">Nicole</data>
+</node>
+<node id="3u3lXfvbpD_21ZoxAk_Chg">
+  <data key="d0">business</data>
+  <data key="d6">3u3lXfvbpD_21ZoxAk_Chg</data>
+  <data key="d1">Gateway Grizzlies</data>
+  <data key="d7">2301 Grizzlie Bear Blvd</data>
+  <data key="d8">Sauget</data>
+  <data key="d9">IL</data>
+  <data key="d10">62206</data>
+  <data key="d11">38.566209</data>
+  <data key="d12">-90.135822</data>
+  <data key="d13">4.5</data>
+  <data key="d2">18</data>
+  <data key="d14">1</data>
+  <data key="d15">{'GoodForKids': 'True'}</data>
+  <data key="d16">Arts &amp; Entertainment, Professional Sports Teams, Stadiums &amp; Arenas, Party &amp; Event Planning, Event Planning &amp; Services</data>
+  <data key="d17">{'Monday': '9:0-17:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-12:0'}</data>
+  <data key="d5">Gateway Grizzlies</data>
+</node>
+<node id="AzbTuI4CmegCOi6TsvH6kA">
+  <data key="d0">user</data>
+  <data key="d1">Eric</data>
+  <data key="d2">1</data>
+  <data key="d3">1.0</data>
+  <data key="d4">2021-07-26 14:29:46</data>
+  <data key="d5">Eric</data>
+</node>
+<node id="Nlxcurjy7wmYchZVNc4MRw">
+  <data key="d0">user</data>
+  <data key="d1">Matt</data>
+  <data key="d2">1</data>
+  <data key="d3">1.0</data>
+  <data key="d4">2019-06-28 17:47:40</data>
+  <data key="d5">Matt</data>
+</node>
+<node id="YRHr7MVKSRScG49r70NsOg">
+  <data key="d0">user</data>
+  <data key="d1">Good</data>
+  <data key="d2">3</data>
+  <data key="d3">5.0</data>
+  <data key="d4">2013-04-18 14:23:21</data>
+  <data key="d5">Good</data>
+</node>
+<node id="xXYYMUKs6mAGdLAXiTScvg">
+  <data key="d0">business</data>
+  <data key="d6">xXYYMUKs6mAGdLAXiTScvg</data>
+  <data key="d1">Pop's</data>
+  <data key="d7">401 Monsanto Ave</data>
+  <data key="d8">Sauget</data>
+  <data key="d9">IL</data>
+  <data key="d10">62201</data>
+  <data key="d11">38.60246235</data>
+  <data key="d12">-90.1754701983</data>
+  <data key="d13">2.5</data>
+  <data key="d2">51</data>
+  <data key="d14">1</data>
+  <data key="d15">{'Alcohol': "u'full_bar'", 'BusinessAcceptsCreditCards': 'True', 'RestaurantsGoodForGroups': 'True', 'BikeParking': 'False', 'GoodForKids': 'False', 'NoiseLevel': "u'very_loud'", 'RestaurantsPriceRange2': '1', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'HasTV': 'True', 'OutdoorSeating': 'False', 'HappyHour': 'False', 'GoodForDancing': 'True', 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': True, 'video': False, 'karaoke': False}", 'Ambience': "{u'divey': True, u'hipster': False, u'casual': False, u'touristy': False, u'trendy': False, u'intimate': False, u'romantic': False, u'classy': False, u'upscale': False}"}</data>
+  <data key="d16">Arts &amp; Entertainment, Pool Halls, Bars, Music Venues, Dive Bars, Nightlife</data>
+  <data key="d17"></data>
+  <data key="d5">Pop's</data>
+</node>
+<node id="huHPQSQgw4kFakc0Vq7TDA">
+  <data key="d0">user</data>
+  <data key="d1">Tina</data>
+  <data key="d2">930</data>
+  <data key="d3">3.94</data>
+  <data key="d4">2013-10-22 01:50:43</data>
+  <data key="d5">Tina</data>
+</node>
+<node id="D9UlxjNI-u1l_igI1Nm4Aw">
+  <data key="d0">user</data>
+  <data key="d1">Rosie</data>
+  <data key="d2">4</data>
+  <data key="d3">4.0</data>
+  <data key="d4">2016-12-08 05:17:13</data>
+  <data key="d5">Rosie</data>
+</node>
+<node id="j7wZG3Juep-Pm7nYi_xCpA">
+  <data key="d0">user</data>
+  <data key="d1">Steven</data>
+  <data key="d2">2</data>
+  <data key="d3">3.0</data>
+  <data key="d4">2013-06-02 14:59:04</data>
+  <data key="d5">Steven</data>
+</node>
+<node id="qxCyunW9wW3NSOmS_V_BMg">
+  <data key="d0">business</data>
+  <data key="d6">qxCyunW9wW3NSOmS_V_BMg</data>
+  <data key="d1">Beyond Hello</data>
+  <data key="d7">2021 Goose Lake Rd</data>
+  <data key="d8">Sauget</data>
+  <data key="d9">IL</data>
+  <data key="d10">62206</data>
+  <data key="d11">38.564004</data>
+  <data key="d12">-90.134619</data>
+  <data key="d13">2.5</data>
+  <data key="d2">14</data>
+  <data key="d14">1</data>
+  <data key="d15"></data>
+  <data key="d16">Shopping, Cannabis Dispensaries, Cannabis Clinics, Health &amp; Medical</data>
+  <data key="d17">{'Monday': '8:0-19:0', 'Tuesday': '8:0-19:0', 'Wednesday': '8:0-19:0', 'Thursday': '8:0-20:30', 'Friday': '8:0-20:30', 'Saturday': '8:0-20:30'}</data>
+  <data key="d5">Beyond Hello</data>
+</node>
+<edge source="9fV_u9Bhqr20G6TjJdyUsQ" target="xXYYMUKs6mAGdLAXiTScvg" id="0">
+  <data key="d18">review</data>
+  <data key="d19">4.0</data>
+  <data key="d20">2017-11-27 19:39:55</data>
+</edge>
+<edge source="Kz_tGBA11N3LH7Wnm7jMzQ" target="D9UlxjNI-u1l_igI1Nm4Aw" id="0">
+  <data key="d18">review</data>
+  <data key="d19">1.0</data>
+  <data key="d20">2019-06-29 01:11:55</data>
+</edge>
+<edge source="nOoskFkYfnF3XCc-V0OMuw" target="4a15acANJFUsS3KxAzOT0g" id="0">
+  <data key="d18">review</data>
+  <data key="d19">2.0</data>
+  <data key="d20">2016-10-28 23:26:54</data>
+</edge>
+<edge source="tOQdMmn0WfJ_xhjYOWnebw" target="4a15acANJFUsS3KxAzOT0g" id="0">
+  <data key="d18">review</data>
+  <data key="d19">5.0</data>
+  <data key="d20">2011-01-08 14:09:20</data>
+</edge>
+<edge source="4a15acANJFUsS3KxAzOT0g" target="YRHr7MVKSRScG49r70NsOg" id="0">
+  <data key="d18">review</data>
+  <data key="d19">5.0</data>
+  <data key="d20">2020-05-09 04:59:43</data>
+</edge>
+<edge source="4a15acANJFUsS3KxAzOT0g" target="j7wZG3Juep-Pm7nYi_xCpA" id="0">
+  <data key="d18">review</data>
+  <data key="d19">3.0</data>
+  <data key="d20">2016-04-18 19:43:04</data>
+</edge>
+<edge source="7f63Nxo3Nrp5kjI8H9uTag" target="xXYYMUKs6mAGdLAXiTScvg" id="0">
+  <data key="d18">review</data>
+  <data key="d19">3.0</data>
+  <data key="d20">2015-06-14 15:23:38</data>
+</edge>
+<edge source="3u3lXfvbpD_21ZoxAk_Chg" target="huHPQSQgw4kFakc0Vq7TDA" id="0">
+  <data key="d18">review</data>
+  <data key="d19">4.0</data>
+  <data key="d20">2015-08-02 00:03:23</data>
+</edge>
+<edge source="AzbTuI4CmegCOi6TsvH6kA" target="qxCyunW9wW3NSOmS_V_BMg" id="0">
+  <data key="d18">review</data>
+  <data key="d19">1.0</data>
+  <data key="d20">2021-09-14 13:43:09</data>
+</edge>
+<edge source="Nlxcurjy7wmYchZVNc4MRw" target="qxCyunW9wW3NSOmS_V_BMg" id="0">
+  <data key="d18">review</data>
+  <data key="d19">1.0</data>
+  <data key="d20">2021-08-16 20:42:07</data>
+</edge>
+</graph></graphml>

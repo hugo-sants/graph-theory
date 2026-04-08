@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d20" for="edge" attr.name="review_date" attr.type="string" />
+  <key id="d19" for="edge" attr.name="review_stars" attr.type="double" />
+  <key id="d18" for="edge" attr.name="type" attr.type="string" />
+  <key id="d17" for="node" attr.name="hours" attr.type="string" />
+  <key id="d16" for="node" attr.name="categories" attr.type="string" />
+  <key id="d15" for="node" attr.name="attributes" attr.type="string" />
+  <key id="d14" for="node" attr.name="is_open" attr.type="long" />
+  <key id="d13" for="node" attr.name="stars" attr.type="double" />
+  <key id="d12" for="node" attr.name="longitude" attr.type="double" />
+  <key id="d11" for="node" attr.name="latitude" attr.type="double" />
+  <key id="d10" for="node" attr.name="postal_code" attr.type="string" />
+  <key id="d9" for="node" attr.name="state" attr.type="string" />
+  <key id="d8" for="node" attr.name="city" attr.type="string" />
+  <key id="d7" for="node" attr.name="address" attr.type="string" />
+  <key id="d6" for="node" attr.name="business_id" attr.type="string" />
+  <key id="d5" for="node" attr.name="label" attr.type="string" />
+  <key id="d4" for="node" attr.name="yelping_since" attr.type="string" />
+  <key id="d3" for="node" attr.name="average_stars" attr.type="double" />
+  <key id="d2" for="node" attr.name="review_count" attr.type="long" />
+  <key id="d1" for="node" attr.name="name" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="fxeRdFmgY6tbTyidpcdFLw">
+      <data key="d0">user</data>
+      <data key="d1">Tanya</data>
+      <data key="d2">483</data>
+      <data key="d3">3.29</data>
+      <data key="d4">2010-05-14 20:36:57</data>
+      <data key="d5">Tanya</data>
+    </node>
+    <node id="lKs439UQaYTvI3SHSHTsVg">
+      <data key="d0">user</data>
+      <data key="d1">Christopher</data>
+      <data key="d2">23</data>
+      <data key="d3">3.78</data>
+      <data key="d4">2016-07-18 22:58:33</data>
+      <data key="d5">Christopher</data>
+    </node>
+    <node id="_tUsyy0U-FmkaBsfaYk5SQ">
+      <data key="d0">user</data>
+      <data key="d1">Jody</data>
+      <data key="d2">78</data>
+      <data key="d3">3.58</data>
+      <data key="d4">2013-10-28 20:35:14</data>
+      <data key="d5">Jody</data>
+    </node>
+    <node id="rbO3X1dmeVl5_T_SJZkWMQ">
+      <data key="d0">user</data>
+      <data key="d1">Russ</data>
+      <data key="d2">80</data>
+      <data key="d3">3.8</data>
+      <data key="d4">2016-11-23 18:00:29</data>
+      <data key="d5">Russ</data>
+    </node>
+    <node id="9SQPIP8ASyy6J7Ujjzi3Ag">
+      <data key="d0">user</data>
+      <data key="d1">Jennifer</data>
+      <data key="d2">189</data>
+      <data key="d3">4.28</data>
+      <data key="d4">2018-08-18 15:47:55</data>
+      <data key="d5">Jennifer</data>
+    </node>
+    <node id="RXSd57z_afLK9nWKHmIsTQ">
+      <data key="d0">user</data>
+      <data key="d1">Jennifer</data>
+      <data key="d2">8</data>
+      <data key="d3">2.75</data>
+      <data key="d4">2010-12-29 18:54:47</data>
+      <data key="d5">Jennifer</data>
+    </node>
+    <node id="TsohTE3w1br2m0Nb-tDRDA">
+      <data key="d0">business</data>
+      <data key="d6">TsohTE3w1br2m0Nb-tDRDA</data>
+      <data key="d1">Dairyland</data>
+      <data key="d7">501 S Main St</data>
+      <data key="d8">Dupo</data>
+      <data key="d9">IL</data>
+      <data key="d10">62239</data>
+      <data key="d11">38.514134</data>
+      <data key="d12">-90.209721</data>
+      <data key="d13">5.0</data>
+      <data key="d2">10</data>
+      <data key="d14">1</data>
+      <data key="d15">{'Alcohol': "u'none'", 'GoodForKids': 'True', 'RestaurantsGoodForGroups': 'True', 'OutdoorSeating': 'True', 'Caters': 'False', 'RestaurantsPriceRange2': '1', 'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}", 'RestaurantsTakeOut': 'True', 'RestaurantsAttire': "u'casual'", 'HasTV': 'True', 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"}</data>
+      <data key="d16">Restaurants</data>
+      <data key="d5">Dairyland</data>
+    </node>
+    <node id="mx1_2BxcIbZ1RKsGG_UPHg">
+      <data key="d0">business</data>
+      <data key="d6">mx1_2BxcIbZ1RKsGG_UPHg</data>
+      <data key="d1">Good Times Saloon</data>
+      <data key="d7">200 N Main St</data>
+      <data key="d8">Dupo</data>
+      <data key="d9">IL</data>
+      <data key="d10">62239</data>
+      <data key="d11">38.520564</data>
+      <data key="d12">-90.2099959</data>
+      <data key="d13">3.0</data>
+      <data key="d2">11</data>
+      <data key="d14">1</data>
+      <data key="d15">{'BusinessAcceptsCreditCards': 'True', 'HasTV': 'True', 'RestaurantsPriceRange2': '1', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}", 'BikeParking': 'False', 'Alcohol': "u'full_bar'", 'RestaurantsGoodForGroups': 'True', 'WiFi': "u'free'", 'RestaurantsReservations': 'False', 'GoodForKids': 'False', 'Ambience': "{'touristy': None, 'hipster': None, 'romantic': None, 'divey': None, 'intimate': None, 'trendy': None, 'upscale': None, 'classy': None, 'casual': True}", 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': True, 'video': False, 'karaoke': False}", 'BestNights': "{'monday': False, 'tuesday': False, 'friday': False, 'wednesday': False, 'thursday': False, 'sunday': False, 'saturday': False}", 'OutdoorSeating': 'True', 'RestaurantsTakeOut': 'True', 'RestaurantsDelivery': 'True'}</data>
+      <data key="d16">Nightlife, Sports Bars, Beer Bar, Bars, Restaurants, American (Traditional)</data>
+      <data key="d17">{'Monday': '11:0-2:0', 'Tuesday': '11:0-2:0', 'Wednesday': '11:0-2:0', 'Thursday': '11:0-2:0', 'Friday': '11:0-2:0', 'Saturday': '11:0-2:0', 'Sunday': '11:0-2:0'}</data>
+      <data key="d5">Good Times Saloon</data>
+    </node>
+    <node id="FFUZykBvwrC2_dOYQjIYxQ">
+      <data key="d0">user</data>
+      <data key="d1">Dana</data>
+      <data key="d2">4</data>
+      <data key="d3">4.75</data>
+      <data key="d4">2009-01-19 19:22:49</data>
+      <data key="d5">Dana</data>
+    </node>
+    <node id="_pcJosyzxpJTyIuvs_pMqg">
+      <data key="d0">user</data>
+      <data key="d1">Tyler</data>
+      <data key="d2">1</data>
+      <data key="d3">1.0</data>
+      <data key="d4">2019-04-28 01:52:52</data>
+      <data key="d5">Tyler</data>
+    </node>
+    <node id="q8nBekopfFSQ0twtoFVA6w">
+      <data key="d0">user</data>
+      <data key="d1">Eric</data>
+      <data key="d2">6</data>
+      <data key="d3">2.0</data>
+      <data key="d4">2014-01-28 23:13:12</data>
+      <data key="d5">Eric</data>
+    </node>
+    <node id="bWzmkLeCBcaXlYvq_kgiEw">
+      <data key="d0">user</data>
+      <data key="d1">John</data>
+      <data key="d2">1</data>
+      <data key="d3">5.0</data>
+      <data key="d4">2012-11-03 22:44:45</data>
+      <data key="d5">John</data>
+    </node>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="mx1_2BxcIbZ1RKsGG_UPHg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">3.0</data>
+      <data key="d20">2010-05-20 01:16:58</data>
+    </edge>
+    <edge source="fxeRdFmgY6tbTyidpcdFLw" target="mx1_2BxcIbZ1RKsGG_UPHg" id="1">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2010-10-22 03:14:16</data>
+    </edge>
+    <edge source="lKs439UQaYTvI3SHSHTsVg" target="mx1_2BxcIbZ1RKsGG_UPHg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2016-07-18 23:05:21</data>
+    </edge>
+    <edge source="lKs439UQaYTvI3SHSHTsVg" target="TsohTE3w1br2m0Nb-tDRDA" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2019-10-05 13:05:00</data>
+    </edge>
+    <edge source="_tUsyy0U-FmkaBsfaYk5SQ" target="mx1_2BxcIbZ1RKsGG_UPHg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2018-08-04 15:25:34</data>
+    </edge>
+    <edge source="rbO3X1dmeVl5_T_SJZkWMQ" target="mx1_2BxcIbZ1RKsGG_UPHg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2018-08-03 23:32:45</data>
+    </edge>
+    <edge source="9SQPIP8ASyy6J7Ujjzi3Ag" target="mx1_2BxcIbZ1RKsGG_UPHg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">4.0</data>
+      <data key="d20">2020-03-20 23:35:11</data>
+    </edge>
+    <edge source="RXSd57z_afLK9nWKHmIsTQ" target="mx1_2BxcIbZ1RKsGG_UPHg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">2.0</data>
+      <data key="d20">2016-11-11 23:11:09</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="FFUZykBvwrC2_dOYQjIYxQ" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2018-06-18 17:51:15</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="bWzmkLeCBcaXlYvq_kgiEw" id="0">
+      <data key="d18">review</data>
+      <data key="d19">5.0</data>
+      <data key="d20">2016-11-07 01:30:22</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="_pcJosyzxpJTyIuvs_pMqg" id="0">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2019-08-23 02:36:40</data>
+    </edge>
+    <edge source="mx1_2BxcIbZ1RKsGG_UPHg" target="q8nBekopfFSQ0twtoFVA6w" id="0">
+      <data key="d18">review</data>
+      <data key="d19">1.0</data>
+      <data key="d20">2019-08-15 17:04:08</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type_1" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="hJTwBhYBTkiHaDMml_v_sw">
+  <data key="type_1">business</data>
+  <data key="business_id">hJTwBhYBTkiHaDMml_v_sw</data>
+  <data key="name">Panera Bread</data>
+  <data key="address">309 N Carrollton Ave, Ste 3</data>
+  <data key="city">New Orleans</data>
+  <data key="state">LA</data>
+  <data key="postal_code">70119</data>
+  <data key="latitude">29.9772461004</data>
+  <data key="longitude">-90.0989199505</data>
+  <data key="stars">2.5</data>
+  <data key="review_count">126</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'NoiseLevel': "'quiet'", 'HasTV': 'False', 'RestaurantsReservations': 'False', 'GoodForKids': 'True', 'WiFi': "u'free'", 'OutdoorSeating': 'True', 'RestaurantsAttire': "u'casual'", 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'Caters': 'True', 'Alcohol': "u'none'", 'RestaurantsTakeOut': 'True', 'BusinessAcceptsCreditCards': 'True', 'RestaurantsGoodForGroups': 'True', 'BikeParking': 'True', 'DriveThru': 'True', 'RestaurantsPriceRange2': '2', 'DogsAllowed': 'False', 'RestaurantsTableService': 'False', 'GoodForMeal': "{'dessert': None, 'latenight': False, 'lunch': True, 'dinner': None, 'brunch': None, 'breakfast': True}", 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': None, 'upscale': False, 'classy': False, 'casual': True}", 'RestaurantsDelivery': 'True'}</data>
+  <data key="categories">Soup, American (New), Sandwiches, Restaurants, Salad, Food, Bakeries</data>
+  <data key="hours">{'Monday': '6:30-16:0', 'Tuesday': '6:30-16:0', 'Wednesday': '6:30-16:0', 'Thursday': '6:30-16:0', 'Friday': '6:30-16:0', 'Saturday': '7:0-16:0', 'Sunday': '7:0-16:0'}</data>
+  <data key="label">Panera Bread</data>
+</node>
+<node id="mhrW9O0O5hXGXGnEYBVoag">
+  <data key="type_1">business</data>
+  <data key="business_id">mhrW9O0O5hXGXGnEYBVoag</data>
+  <data key="name">Jacques-Imo's Cafe</data>
+  <data key="address">8324 Oak St</data>
+  <data key="city">New Orleans</data>
+  <data key="state">LA</data>
+  <data key="postal_code">70118</data>
+  <data key="latitude">29.9490417</data>
+  <data key="longitude">-90.1322295</data>
+  <data key="stars">4.5</data>
+  <data key="review_count">2406</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsGoodForGroups': 'True', 'RestaurantsTakeOut': 'True', 'Alcohol': "'full_bar'", 'RestaurantsAttire': "'casual'", 'BusinessAcceptsCreditCards': 'True', 'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}", 'NoiseLevel': "u'loud'", 'Corkage': 'True', 'GoodForKids': 'True', 'RestaurantsReservations': 'True', 'RestaurantsPriceRange2': '2', 'BYOBCorkage': "'no'", 'DogsAllowed': 'False', 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}", 'OutdoorSeating': 'None', 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}", 'BYOB': 'False', 'RestaurantsTableService': 'True', 'Open24Hours': 'False', 'RestaurantsDelivery': 'False', 'BusinessAcceptsBitcoin': 'False', 'BikeParking': 'False', 'WiFi': "u'no'", 'HasTV': 'False', 'HappyHour': 'False', 'Caters': 'True'}</data>
+  <data key="categories">Seafood, Cajun/Creole, Restaurants, Vegetarian</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Wednesday': '17:0-21:0', 'Thursday': '17:0-22:0', 'Friday': '17:0-22:0', 'Saturday': '16:0-22:0'}</data>
+  <data key="label">Jacques-Imo's Cafe</data>
+</node>
+<node id="e4Vwtrqf-wpJfwesgvdgxQ">
+  <data key="type_1">business</data>
+  <data key="business_id">e4Vwtrqf-wpJfwesgvdgxQ</data>
+  <data key="name">Melt</data>
+  <data key="address">2549 Banks St</data>
+  <data key="city">New Orleans</data>
+  <data key="state">LA</data>
+  <data key="postal_code">70119</data>
+  <data key="latitude">29.962102</data>
+  <data key="longitude">-90.087958</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">32</data>
+  <data key="is_open">0</data>
+  <data key="attributes">{'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}", 'GoodForMeal': "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}", 'Smoking': "u'outdoor'", 'WiFi': "u'free'", 'RestaurantsTakeOut': 'True', 'DogsAllowed': 'True', 'RestaurantsGoodForGroups': 'True', 'WheelchairAccessible': 'True', 'HasTV': 'True', 'RestaurantsDelivery': 'False', 'BikeParking': 'False', 'RestaurantsTableService': 'True', 'CoatCheck': 'False', 'Caters': 'True', 'OutdoorSeating': 'True', 'BusinessAcceptsCreditCards': 'True', 'Alcohol': "u'full_bar'", 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': False, 'video': False, 'karaoke': False}", 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}", 'RestaurantsAttire': "'casual'", 'BusinessAcceptsBitcoin': 'False', 'HappyHour': 'True', 'GoodForKids': 'True', 'RestaurantsReservations': 'False', 'GoodForDancing': 'False', 'RestaurantsPriceRange2': '2'}</data>
+  <data key="categories">Sandwiches, Beer, Wine &amp; Spirits, Bars, Food, Restaurants, American (Traditional), Nightlife</data>
+  <data key="hours">{'Monday': '0:0-0:0', 'Friday': '11:0-17:0', 'Sunday': '11:0-11:15'}</data>
+  <data key="label">Melt</data>
+</node>
+<node id="WXX2EtysiTsZd7pzijpb0g">
+  <data key="type_1">business</data>
+  <data key="business_id">WXX2EtysiTsZd7pzijpb0g</data>
+  <data key="name">Finnegan's Pub</data>
+  <data key="address">7051 S Tucson Blvd</data>
+  <data key="city">Tucson</data>
+  <data key="state">AZ</data>
+  <data key="postal_code">85756</data>
+  <data key="latitude">32.1235564</data>
+  <data key="longitude">-110.9341191</data>
+  <data key="stars">3.0</data>
+  <data key="review_count">70</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'BusinessAcceptsCreditCards': 'True', 'RestaurantsAttire': "u'casual'", 'HasTV': 'True', 'NoiseLevel': "u'average'", 'RestaurantsGoodForGroups': 'True', 'OutdoorSeating': 'True', 'Caters': 'True', 'Music': "{'dj': False, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': False, 'video': False, 'karaoke': False}", 'GoodForKids': 'True', 'RestaurantsReservations': 'True', 'GoodForMeal': "{'dessert': None, 'latenight': None, 'lunch': None, 'dinner': True, 'brunch': None, 'breakfast': True}", 'Alcohol': "u'full_bar'", 'RestaurantsPriceRange2': '2', 'WiFi': "u'free'", 'BikeParking': 'True', 'RestaurantsDelivery': 'False', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}", 'Ambience': "{'touristy': False, 'hipster': None, 'romantic': None, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': None, 'classy': None, 'casual': True}", 'RestaurantsTakeOut': 'True'}</data>
+  <data key="categories">Nightlife, Pubs, Restaurants, American (New), Bars, Irish</data>
+  <data key="hours">{'Monday': '6:0-23:0', 'Tuesday': '6:0-23:0', 'Wednesday': '6:0-23:0', 'Thursday': '6:0-23:0', 'Friday': '6:0-23:0', 'Saturday': '7:0-23:0', 'Sunday': '7:0-23:0'}</data>
+  <data key="label">Finnegan's Pub</data>
+</node>
+<node id="ew5TyXOlyCpCRptye1LdxA">
+  <data key="type_1">business</data>
+  <data key="business_id">ew5TyXOlyCpCRptye1LdxA</data>
+  <data key="name">Pizza Hut</data>
+  <data key="address">301 N Carrollton Ave, Ste C-4</data>
+  <data key="city">New Orleans</data>
+  <data key="state">LA</data>
+  <data key="postal_code">70119</data>
+  <data key="latitude">29.9768214212</data>
+  <data key="longitude">-90.0991417935</data>
+  <data key="stars">1.5</data>
+  <data key="review_count">39</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'RestaurantsReservations': 'False', 'NoiseLevel': "u'quiet'", 'WiFi': "u'no'", 'OutdoorSeating': 'False', 'RestaurantsGoodForGroups': 'False', 'RestaurantsTakeOut': 'True', 'BikeParking': 'False', 'HasTV': 'True', 'Ambience': "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'RestaurantsPriceRange2': '1', 'Caters': 'True', 'Alcohol': "u'none'", 'GoodForKids': 'True', 'BusinessAcceptsCreditCards': 'True', 'RestaurantsDelivery': 'True', 'RestaurantsAttire': "u'casual'"}</data>
+  <data key="categories">Pizza, Restaurants, Chicken Wings, Italian, American (Traditional), Fast Food</data>
+  <data key="hours">{'Monday': '11:0-20:0', 'Tuesday': '11:0-20:0', 'Wednesday': '11:0-20:0', 'Thursday': '11:0-20:0', 'Friday': '11:0-20:0', 'Saturday': '11:0-20:0', 'Sunday': '11:0-20:0'}</data>
+  <data key="label">Pizza Hut</data>
+</node>
+<node id="bcjbaE6dDog4jkNY91ncLQ">
+  <data key="type_1">user</data>
+  <data key="name">Sophia</data>
+  <data key="review_count">126</data>
+  <data key="average_stars">2.97</data>
+  <data key="yelping_since">2008-04-17 13:39:54</data>
+  <data key="label">Sophia</data>
+</node>
+<node id="8g_iMtfSiwikVnbP2etR0A">
+  <data key="type_1">user</data>
+  <data key="name">Debra</data>
+  <data key="review_count">1332</data>
+  <data key="average_stars">4.69</data>
+  <data key="yelping_since">2012-09-04 23:57:25</data>
+  <data key="label">Debra</data>
+</node>
+<edge source="hJTwBhYBTkiHaDMml_v_sw" target="bcjbaE6dDog4jkNY91ncLQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2014-11-17 02:22:22</data>
+</edge>
+<edge source="hJTwBhYBTkiHaDMml_v_sw" target="bcjbaE6dDog4jkNY91ncLQ" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2017-05-30 09:03:06</data>
+</edge>
+<edge source="hJTwBhYBTkiHaDMml_v_sw" target="bcjbaE6dDog4jkNY91ncLQ" id="2">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2015-10-04 17:30:02</data>
+</edge>
+<edge source="mhrW9O0O5hXGXGnEYBVoag" target="bcjbaE6dDog4jkNY91ncLQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2017-10-27 11:43:15</data>
+</edge>
+<edge source="mhrW9O0O5hXGXGnEYBVoag" target="bcjbaE6dDog4jkNY91ncLQ" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2014-11-19 18:02:15</data>
+</edge>
+<edge source="e4Vwtrqf-wpJfwesgvdgxQ" target="bcjbaE6dDog4jkNY91ncLQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2017-01-14 20:54:15</data>
+</edge>
+<edge source="e4Vwtrqf-wpJfwesgvdgxQ" target="bcjbaE6dDog4jkNY91ncLQ" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2018-07-28 20:39:45</data>
+</edge>
+<edge source="WXX2EtysiTsZd7pzijpb0g" target="8g_iMtfSiwikVnbP2etR0A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2015-02-15 20:20:59</data>
+</edge>
+<edge source="WXX2EtysiTsZd7pzijpb0g" target="8g_iMtfSiwikVnbP2etR0A" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2014-02-04 16:02:17</data>
+</edge>
+<edge source="WXX2EtysiTsZd7pzijpb0g" target="8g_iMtfSiwikVnbP2etR0A" id="2">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2014-02-03 14:34:43</data>
+</edge>
+<edge source="ew5TyXOlyCpCRptye1LdxA" target="bcjbaE6dDog4jkNY91ncLQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2019-12-02 00:55:06</data>
+</edge>
+<edge source="ew5TyXOlyCpCRptye1LdxA" target="bcjbaE6dDog4jkNY91ncLQ" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-08-10 00:47:45</data>
+</edge>
+</graph></graphml>

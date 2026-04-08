@@ -1,0 +1,996 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="H5bHtwW_YYVLnf-Ne3EkkA">
+  <data key="type">business</data>
+  <data key="business_id">H5bHtwW_YYVLnf-Ne3EkkA</data>
+  <data key="name">LKQ Pick Your Part - Washington Park</data>
+  <data key="address">6111 Bunkum Rd</data>
+  <data key="city">Washington Park</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62204</data>
+  <data key="latitude">38.6263254956</data>
+  <data key="longitude">-90.0832857</data>
+  <data key="stars">3.5</data>
+  <data key="review_count">11</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'BusinessAcceptsCreditCards': 'True', 'ByAppointmentOnly': 'False'}</data>
+  <data key="categories">Car Dealers, Recycling Center, Local Services, Junkyards, Shopping, Auto Repair, Hardware Stores, Tires, Automotive, Auto Parts &amp; Supplies, Home &amp; Garden</data>
+  <data key="hours">{'Monday': '8:0-17:0', 'Tuesday': '8:0-17:0', 'Wednesday': '8:0-17:0', 'Thursday': '8:0-17:0', 'Friday': '8:0-17:0', 'Saturday': '8:0-17:0', 'Sunday': '8:0-17:0'}</data>
+  <data key="label">LKQ Pick Your Part - Washington Park</data>
+</node>
+<node id="-reeXxeQfRSvO7NXOdgKcg">
+  <data key="type">business</data>
+  <data key="business_id">-reeXxeQfRSvO7NXOdgKcg</data>
+  <data key="name">China House</data>
+  <data key="address">1400 Kingshighway</data>
+  <data key="city">Washington Park</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62204</data>
+  <data key="latitude">38.6267798</data>
+  <data key="longitude">-90.0928061</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">7</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'RestaurantsReservations': 'False', 'Caters': 'False', 'NoiseLevel': "u'average'", 'BikeParking': 'False', 'RestaurantsTableService': 'False', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'RestaurantsPriceRange2': '1', 'RestaurantsTakeOut': 'True', 'WiFi': "u'no'", 'Ambience': "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'DogsAllowed': 'False', 'RestaurantsAttire': "u'formal'", 'OutdoorSeating': 'False', 'GoodForKids': 'True', 'Alcohol': "u'none'", 'RestaurantsDelivery': 'False', 'WheelchairAccessible': 'False', 'RestaurantsGoodForGroups': 'True', 'BusinessAcceptsCreditCards': 'True', 'HasTV': 'False', 'BusinessAcceptsBitcoin': 'False'}</data>
+  <data key="categories">Restaurants, Chinese</data>
+  <data key="hours">{'Monday': '11:0-22:0', 'Tuesday': '11:0-22:0', 'Wednesday': '11:0-22:0', 'Thursday': '11:0-22:0', 'Friday': '11:0-22:0', 'Saturday': '14:0-22:0'}</data>
+  <data key="label">China House</data>
+</node>
+<node id="JXYMkNxFKX6nZPs-b7rrQg">
+  <data key="type">business</data>
+  <data key="business_id">JXYMkNxFKX6nZPs-b7rrQg</data>
+  <data key="name">Larry Flynt's Hustler Club</data>
+  <data key="address">5420 Bunkum Rd</data>
+  <data key="city">Washington Park</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62204</data>
+  <data key="latitude">38.6226709</data>
+  <data key="longitude">-90.091324</data>
+  <data key="stars">4.0</data>
+  <data key="review_count">44</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'Alcohol': "u'full_bar'", 'BusinessAcceptsCreditCards': 'True', 'HasTV': 'True', 'BusinessAcceptsBitcoin': 'False', 'BikeParking': 'True', 'RestaurantsGoodForGroups': 'True', 'RestaurantsPriceRange2': '2', 'GoodForDancing': 'True', 'NoiseLevel': "u'loud'", 'Ambience': "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}", 'Smoking': "u'no'", 'OutdoorSeating': 'False', 'BestNights': "{'monday': False, 'tuesday': True, 'friday': True, 'wednesday': False, 'thursday': False, 'sunday': False, 'saturday': True}", 'BusinessParking': "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': True}", 'Music': "{'dj': True, 'background_music': False, 'no_music': False, 'jukebox': None, 'live': None, 'video': False, 'karaoke': False}"}</data>
+  <data key="categories">Adult Entertainment, Nightlife</data>
+  <data key="hours">{'Tuesday': '20:0-6:0', 'Wednesday': '20:0-4:0', 'Thursday': '12:0-4:0', 'Friday': '20:0-6:0', 'Saturday': '20:0-6:0'}</data>
+  <data key="label">Larry Flynt's Hustler Club</data>
+</node>
+<node id="KupOvmT5lwDgWVz6cMefEQ">
+  <data key="type">business</data>
+  <data key="business_id">KupOvmT5lwDgWVz6cMefEQ</data>
+  <data key="name">Scarletts Cabaret St Louis</data>
+  <data key="address">5841 Bunkum Rd</data>
+  <data key="city">Washington Park</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62204</data>
+  <data key="latitude">38.6240144685</data>
+  <data key="longitude">-90.0856505117</data>
+  <data key="stars">2.5</data>
+  <data key="review_count">6</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'Ambience': "{u'divey': None, u'hipster': True, u'casual': None, u'touristy': None, u'trendy': None, u'intimate': None, u'romantic': None, u'classy': None, u'upscale': None}", 'Alcohol': "u'full_bar'", 'Smoking': "u'yes'", 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}", 'Music': "{'dj': None, 'background_music': False, 'no_music': False, 'jukebox': False, 'live': None, 'video': False, 'karaoke': None}", 'BikeParking': 'True', 'BusinessAcceptsCreditCards': 'True', 'HasTV': 'True'}</data>
+  <data key="categories">Bars, Nightlife, Strip Clubs, Adult Entertainment</data>
+  <data key="hours">{'Monday': '12:0-4:0', 'Tuesday': '12:0-4:0', 'Wednesday': '12:0-4:0', 'Thursday': '12:0-4:0', 'Friday': '12:0-6:0', 'Saturday': '12:0-6:0', 'Sunday': '12:0-4:0'}</data>
+  <data key="label">Scarletts Cabaret St Louis</data>
+</node>
+<node id="ePcbpwc0MXl3Iorp1TqYuw">
+  <data key="type">user</data>
+  <data key="name">Tramaine</data>
+  <data key="review_count">130</data>
+  <data key="average_stars">3.6</data>
+  <data key="yelping_since">2015-11-01 18:18:48</data>
+  <data key="label">Tramaine</data>
+</node>
+<node id="l9usYEqwN8lNhdFdlFE3Gw">
+  <data key="type">user</data>
+  <data key="name">Ellie</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2019-11-05 03:58:04</data>
+  <data key="label">Ellie</data>
+</node>
+<node id="XAxUVe1bvZntGIIzAuEueQ">
+  <data key="type">user</data>
+  <data key="name">Frank</data>
+  <data key="review_count">15</data>
+  <data key="average_stars">3.33</data>
+  <data key="yelping_since">2015-09-13 16:44:57</data>
+  <data key="label">Frank</data>
+</node>
+<node id="cPT-E02ZVvzevldYI-vrAg">
+  <data key="type">user</data>
+  <data key="name">Stan</data>
+  <data key="review_count">635</data>
+  <data key="average_stars">3.53</data>
+  <data key="yelping_since">2010-07-18 21:28:46</data>
+  <data key="label">Stan</data>
+</node>
+<node id="gnsBNCDgj891nw6APjpyAg">
+  <data key="type">user</data>
+  <data key="name">Greg</data>
+  <data key="review_count">5</data>
+  <data key="average_stars">3.4</data>
+  <data key="yelping_since">2016-06-04 16:44:49</data>
+  <data key="label">Greg</data>
+</node>
+<node id="mKBl4fAqTfNts7B78aOPVg">
+  <data key="type">user</data>
+  <data key="name">Dave</data>
+  <data key="review_count">752</data>
+  <data key="average_stars">3.68</data>
+  <data key="yelping_since">2009-10-11 04:00:50</data>
+  <data key="label">Dave</data>
+</node>
+<node id="NwWGl2UzkQms4hqJCf3a2g">
+  <data key="type">user</data>
+  <data key="name">Orlando</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2017-09-20 15:45:52</data>
+  <data key="label">Orlando</data>
+</node>
+<node id="EOQ4yP41yjCo7K2o4hnCFA">
+  <data key="type">user</data>
+  <data key="name">User</data>
+  <data key="review_count">70</data>
+  <data key="average_stars">3.41</data>
+  <data key="yelping_since">2012-07-15 00:41:38</data>
+  <data key="label">User</data>
+</node>
+<node id="vTYSolv6P9-WendPOqghWA">
+  <data key="type">user</data>
+  <data key="name">Manny</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">2.75</data>
+  <data key="yelping_since">2018-03-09 07:19:43</data>
+  <data key="label">Manny</data>
+</node>
+<node id="z2-KhBFi7LzqtczVmeP0iA">
+  <data key="type">user</data>
+  <data key="name">Bob</data>
+  <data key="review_count">19</data>
+  <data key="average_stars">3.4</data>
+  <data key="yelping_since">2015-07-04 04:43:18</data>
+  <data key="label">Bob</data>
+</node>
+<node id="ly7GCU65WzjXvI4v1H7rcQ">
+  <data key="type">user</data>
+  <data key="name">rich</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">2.33</data>
+  <data key="yelping_since">2009-08-22 23:05:18</data>
+  <data key="label">rich</data>
+</node>
+<node id="pWzYkZBpRYN7jqRwQ4FxYQ">
+  <data key="type">user</data>
+  <data key="name">Suzanne</data>
+  <data key="review_count">10</data>
+  <data key="average_stars">2.7</data>
+  <data key="yelping_since">2011-01-30 01:44:07</data>
+  <data key="label">Suzanne</data>
+</node>
+<node id="dXMzsNmjbhxlW8gXn-zq0A">
+  <data key="type">user</data>
+  <data key="name">Mr</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2012-07-15 02:51:02</data>
+  <data key="label">Mr</data>
+</node>
+<node id="1Fn-2Xs1XsrpZvHEwK5QaQ">
+  <data key="type">user</data>
+  <data key="name">Kreig</data>
+  <data key="review_count">32</data>
+  <data key="average_stars">3.73</data>
+  <data key="yelping_since">2012-03-16 03:28:50</data>
+  <data key="label">Kreig</data>
+</node>
+<node id="llJ9XnO_sWYSTb41bw7U1Q">
+  <data key="type">user</data>
+  <data key="name">Victor</data>
+  <data key="review_count">7</data>
+  <data key="average_stars">3.86</data>
+  <data key="yelping_since">2013-08-30 00:46:23</data>
+  <data key="label">Victor</data>
+</node>
+<node id="T4I0JccMhA-KE61sWJJZ-w">
+  <data key="type">user</data>
+  <data key="name">Ron</data>
+  <data key="review_count">63</data>
+  <data key="average_stars">2.68</data>
+  <data key="yelping_since">2011-10-24 21:04:24</data>
+  <data key="label">Ron</data>
+</node>
+<node id="lnz3jx8VMz43iRqx2uLuhg">
+  <data key="type">user</data>
+  <data key="name">Cassandra</data>
+  <data key="review_count">10</data>
+  <data key="average_stars">3.9</data>
+  <data key="yelping_since">2013-08-16 05:05:18</data>
+  <data key="label">Cassandra</data>
+</node>
+<node id="Bf-RSrZwZQiAQtbdnXidZw">
+  <data key="type">user</data>
+  <data key="name">Sachin</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2013-11-03 23:59:45</data>
+  <data key="label">Sachin</data>
+</node>
+<node id="ipwlLlEdqmQDjSOkTZaSfg">
+  <data key="type">user</data>
+  <data key="name">Toni</data>
+  <data key="review_count">51</data>
+  <data key="average_stars">3.66</data>
+  <data key="yelping_since">2011-10-12 03:47:12</data>
+  <data key="label">Toni</data>
+</node>
+<node id="7mOzCr3QRn4MZ_GOSlWl8w">
+  <data key="type">user</data>
+  <data key="name">Inna</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">3.4</data>
+  <data key="yelping_since">2016-12-31 17:55:39</data>
+  <data key="label">Inna</data>
+</node>
+<node id="ThHkm0LPKefRsc5GIm-YsA">
+  <data key="type">user</data>
+  <data key="name">Terry</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2017-01-22 01:49:56</data>
+  <data key="label">Terry</data>
+</node>
+<node id="iG7x_vN8tekDMVKdoaWNSQ">
+  <data key="type">user</data>
+  <data key="name">Josh</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.4</data>
+  <data key="yelping_since">2013-02-28 19:19:25</data>
+  <data key="label">Josh</data>
+</node>
+<node id="EpynunkUvrCYBN5r5zab5A">
+  <data key="type">user</data>
+  <data key="name">David</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">2.6</data>
+  <data key="yelping_since">2015-05-09 22:08:51</data>
+  <data key="label">David</data>
+</node>
+<node id="NiYCDXrLLq_An10HNsCrGA">
+  <data key="type">user</data>
+  <data key="name">Andrew</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2012-07-27 07:58:04</data>
+  <data key="label">Andrew</data>
+</node>
+<node id="jkrruDmG-R2h3WcQDCRSDg">
+  <data key="type">user</data>
+  <data key="name">Danielle</data>
+  <data key="review_count">25</data>
+  <data key="average_stars">2.96</data>
+  <data key="yelping_since">2012-04-28 22:23:54</data>
+  <data key="label">Danielle</data>
+</node>
+<node id="4-YHO3Q7oRI0m2v06OaW0w">
+  <data key="type">user</data>
+  <data key="name">ToddandKelly</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2017-07-27 02:54:27</data>
+  <data key="label">ToddandKelly</data>
+</node>
+<node id="4mkZsB3wSoUlvMlekl0U-Q">
+  <data key="type">user</data>
+  <data key="name">Emil</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2013-07-06 05:28:39</data>
+  <data key="label">Emil</data>
+</node>
+<node id="wIVlqNGx1bs4WPYJZ3b0mw">
+  <data key="type">user</data>
+  <data key="name">Adam</data>
+  <data key="review_count">6</data>
+  <data key="average_stars">4.67</data>
+  <data key="yelping_since">2017-04-23 17:32:34</data>
+  <data key="label">Adam</data>
+</node>
+<node id="Q4wGOnq55Jl_dFux9lkmRA">
+  <data key="type">user</data>
+  <data key="name">Marie</data>
+  <data key="review_count">14</data>
+  <data key="average_stars">4.67</data>
+  <data key="yelping_since">2017-03-01 06:41:47</data>
+  <data key="label">Marie</data>
+</node>
+<node id="6REOnLyOHjmrXaO_S5kZ9Q">
+  <data key="type">user</data>
+  <data key="name">Miranda</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2018-04-07 02:23:37</data>
+  <data key="label">Miranda</data>
+</node>
+<node id="d_i5EqXYcHtQ_xGhVheIdw">
+  <data key="type">user</data>
+  <data key="name">Kevin</data>
+  <data key="review_count">11</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2016-04-05 17:47:50</data>
+  <data key="label">Kevin</data>
+</node>
+<node id="6qG0SU478BzGsvVHEfFulw">
+  <data key="type">user</data>
+  <data key="name">David</data>
+  <data key="review_count">124</data>
+  <data key="average_stars">4.14</data>
+  <data key="yelping_since">2013-01-06 02:24:45</data>
+  <data key="label">David</data>
+</node>
+<node id="b2tuB311MxU8LbSdnNDxvA">
+  <data key="type">user</data>
+  <data key="name">Amanda</data>
+  <data key="review_count">17</data>
+  <data key="average_stars">2.63</data>
+  <data key="yelping_since">2014-10-02 19:17:09</data>
+  <data key="label">Amanda</data>
+</node>
+<node id="Ra4lC6dpc_x9KCZ4u7uyvg">
+  <data key="type">user</data>
+  <data key="name">Danie</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2018-01-01 17:38:27</data>
+  <data key="label">Danie</data>
+</node>
+<node id="yeU2BnMBl7Ih8U-iPxBtyA">
+  <data key="type">user</data>
+  <data key="name">Clay</data>
+  <data key="review_count">106</data>
+  <data key="average_stars">2.46</data>
+  <data key="yelping_since">2011-08-11 02:25:42</data>
+  <data key="label">Clay</data>
+</node>
+<node id="j6t777r9qYnlphoUWEa9JQ">
+  <data key="type">user</data>
+  <data key="name">111</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">1.75</data>
+  <data key="yelping_since">2016-09-15 13:13:39</data>
+  <data key="label">111</data>
+</node>
+<node id="eHNs3djSmezhPe8EfCpLaA">
+  <data key="type">user</data>
+  <data key="name">Katelin</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2019-01-22 03:14:38</data>
+  <data key="label">Katelin</data>
+</node>
+<node id="Y05wOg421D-jmX0HqunNNw">
+  <data key="type">user</data>
+  <data key="name">Carlos</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2016-01-29 16:14:50</data>
+  <data key="label">Carlos</data>
+</node>
+<node id="tJmU_Yb_30joxvErlfFkBg">
+  <data key="type">user</data>
+  <data key="name">Bradley</data>
+  <data key="review_count">15</data>
+  <data key="average_stars">3.67</data>
+  <data key="yelping_since">2019-03-11 19:48:12</data>
+  <data key="label">Bradley</data>
+</node>
+<node id="_lem6JTiXUWzVUOURFKSwQ">
+  <data key="type">user</data>
+  <data key="name">Justin</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2018-10-04 23:06:27</data>
+  <data key="label">Justin</data>
+</node>
+<node id="-GjTujQD9mebr-EujVRk_w">
+  <data key="type">user</data>
+  <data key="name">Blake</data>
+  <data key="review_count">8</data>
+  <data key="average_stars">3.88</data>
+  <data key="yelping_since">2014-06-01 21:25:08</data>
+  <data key="label">Blake</data>
+</node>
+<node id="B89lddkm4l4bz9n237XiHA">
+  <data key="type">user</data>
+  <data key="name">Joseph</data>
+  <data key="review_count">17</data>
+  <data key="average_stars">2.59</data>
+  <data key="yelping_since">2013-02-21 21:03:31</data>
+  <data key="label">Joseph</data>
+</node>
+<node id="I63rGHcrHekXEIN-ocn7fA">
+  <data key="type">user</data>
+  <data key="name">Jennifer</data>
+  <data key="review_count">7</data>
+  <data key="average_stars">3.43</data>
+  <data key="yelping_since">2014-06-19 22:42:28</data>
+  <data key="label">Jennifer</data>
+</node>
+<node id="vUlg5tcRua7Td8Xl9YyX9A">
+  <data key="type">user</data>
+  <data key="name">Kenny</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">3.4</data>
+  <data key="yelping_since">2019-07-29 23:12:08</data>
+  <data key="label">Kenny</data>
+</node>
+<node id="O4n72-x3WOv6eZOHuMujAA">
+  <data key="type">user</data>
+  <data key="name">Ashlynn</data>
+  <data key="review_count">8</data>
+  <data key="average_stars">3.38</data>
+  <data key="yelping_since">2017-02-04 17:08:33</data>
+  <data key="label">Ashlynn</data>
+</node>
+<node id="aKHJUBWI2nNhAc3khFC_6Q">
+  <data key="type">user</data>
+  <data key="name">Bruce</data>
+  <data key="review_count">17</data>
+  <data key="average_stars">4.06</data>
+  <data key="yelping_since">2015-04-26 23:26:41</data>
+  <data key="label">Bruce</data>
+</node>
+<node id="LwhiYyaoYyQGSpO9SC4rSw">
+  <data key="type">user</data>
+  <data key="name">Jose</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2013-10-08 18:25:55</data>
+  <data key="label">Jose</data>
+</node>
+<node id="3WrcMEClSKMuqOssi7riAQ">
+  <data key="type">user</data>
+  <data key="name">Ray</data>
+  <data key="review_count">51</data>
+  <data key="average_stars">1.57</data>
+  <data key="yelping_since">2012-01-20 01:19:03</data>
+  <data key="label">Ray</data>
+</node>
+<node id="BoxvpYnoJCKIFBTOfZjewA">
+  <data key="type">user</data>
+  <data key="name">Zachary</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2017-04-29 03:52:09</data>
+  <data key="label">Zachary</data>
+</node>
+<node id="XGO4R8pRtOTib4cnyZ0tnQ">
+  <data key="type">user</data>
+  <data key="name">Steve</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">4.33</data>
+  <data key="yelping_since">2019-11-29 16:08:51</data>
+  <data key="label">Steve</data>
+</node>
+<node id="7rRhks60F4QZYsRVDGGIXg">
+  <data key="type">user</data>
+  <data key="name">Tricia</data>
+  <data key="review_count">29</data>
+  <data key="average_stars">4.06</data>
+  <data key="yelping_since">2012-01-27 18:25:49</data>
+  <data key="label">Tricia</data>
+</node>
+<node id="3C_wWqdcKePtuFW2eiVq5w">
+  <data key="type">user</data>
+  <data key="name">Ross</data>
+  <data key="review_count">8</data>
+  <data key="average_stars">1.5</data>
+  <data key="yelping_since">2015-12-30 01:36:35</data>
+  <data key="label">Ross</data>
+</node>
+<node id="B5Dmwe_OATqGI-8G1-C1Ag">
+  <data key="type">user</data>
+  <data key="name">Zac</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2016-01-05 17:17:26</data>
+  <data key="label">Zac</data>
+</node>
+<node id="fHy398q677sn3CSBjkgS0Q">
+  <data key="type">user</data>
+  <data key="name">Mike</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2019-01-12 07:15:13</data>
+  <data key="label">Mike</data>
+</node>
+<node id="YwA1kYTqidSkH3pmhSk4ow">
+  <data key="type">user</data>
+  <data key="name">Robin</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">3.0</data>
+  <data key="yelping_since">2018-09-18 16:42:19</data>
+  <data key="label">Robin</data>
+</node>
+<node id="r-Gio4MUnKTKDOQ9fWFdmg">
+  <data key="type">user</data>
+  <data key="name">Chad</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2018-02-17 22:31:16</data>
+  <data key="label">Chad</data>
+</node>
+<node id="L6rkvH8gM-aILh_cEjjQVg">
+  <data key="type">user</data>
+  <data key="name">Matt</data>
+  <data key="review_count">56</data>
+  <data key="average_stars">3.75</data>
+  <data key="yelping_since">2013-10-28 09:51:52</data>
+  <data key="label">Matt</data>
+</node>
+<node id="lJvYGgw4bNqsGSqrDXP5_A">
+  <data key="type">user</data>
+  <data key="name">Mike</data>
+  <data key="review_count">10</data>
+  <data key="average_stars">2.83</data>
+  <data key="yelping_since">2016-07-04 22:49:39</data>
+  <data key="label">Mike</data>
+</node>
+<node id="tluCqIuc6y12FrP8kzrhMA">
+  <data key="type">user</data>
+  <data key="name">Ryan</data>
+  <data key="review_count">3</data>
+  <data key="average_stars">3.67</data>
+  <data key="yelping_since">2016-09-14 23:52:25</data>
+  <data key="label">Ryan</data>
+</node>
+<node id="qoD7_yMDKgfmn52Z_hc1Pw">
+  <data key="type">user</data>
+  <data key="name">Kevin</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">4.0</data>
+  <data key="yelping_since">2016-07-17 20:49:55</data>
+  <data key="label">Kevin</data>
+</node>
+<node id="ieSyY4chb7mbEVFWqxOGBw">
+  <data key="type">user</data>
+  <data key="name">Brandon</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">5.0</data>
+  <data key="yelping_since">2019-03-24 09:01:25</data>
+  <data key="label">Brandon</data>
+</node>
+<node id="VMUi88s5yfzOj7tFLkcGxQ">
+  <data key="type">user</data>
+  <data key="name">Christian</data>
+  <data key="review_count">19</data>
+  <data key="average_stars">4.14</data>
+  <data key="yelping_since">2016-07-11 20:34:08</data>
+  <data key="label">Christian</data>
+</node>
+<node id="Ysvpdqo0GOSP2v-r7FosnQ">
+  <data key="type">user</data>
+  <data key="name">Dean</data>
+  <data key="review_count">71</data>
+  <data key="average_stars">3.97</data>
+  <data key="yelping_since">2010-09-27 23:40:55</data>
+  <data key="label">Dean</data>
+</node>
+<node id="OaEdRRNzPOrRyghbLEpRfg">
+  <data key="type">user</data>
+  <data key="name">Madi</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2020-08-01 09:55:23</data>
+  <data key="label">Madi</data>
+</node>
+<node id="F3d7OXJfrKjgnHIgL5z5Ig">
+  <data key="type">user</data>
+  <data key="name">Kirk</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2017-05-27 12:00:50</data>
+  <data key="label">Kirk</data>
+</node>
+<node id="r6bCa03-qI03Lrh879LXFw">
+  <data key="type">user</data>
+  <data key="name">Rich</data>
+  <data key="review_count">244</data>
+  <data key="average_stars">3.95</data>
+  <data key="yelping_since">2012-06-03 14:55:25</data>
+  <data key="label">Rich</data>
+</node>
+<node id="U8Y_MmC0CjZKHrfJbe_l0w">
+  <data key="type">user</data>
+  <data key="name">gökhan</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2021-03-01 07:37:55</data>
+  <data key="label">gökhan</data>
+</node>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="ePcbpwc0MXl3Iorp1TqYuw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-09-04 21:57:04</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="l9usYEqwN8lNhdFdlFE3Gw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-01-06 23:58:32</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="XAxUVe1bvZntGIIzAuEueQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-10-13 03:34:45</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="cPT-E02ZVvzevldYI-vrAg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-06-07 00:14:36</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="gnsBNCDgj891nw6APjpyAg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2021-05-27 10:06:49</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="mKBl4fAqTfNts7B78aOPVg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2014-10-25 21:51:40</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="NwWGl2UzkQms4hqJCf3a2g" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-10-08 17:10:00</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="EOQ4yP41yjCo7K2o4hnCFA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-05-07 21:14:32</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="vTYSolv6P9-WendPOqghWA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2019-08-25 22:35:21</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="z2-KhBFi7LzqtczVmeP0iA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2020-12-18 00:20:14</data>
+</edge>
+<edge source="H5bHtwW_YYVLnf-Ne3EkkA" target="ly7GCU65WzjXvI4v1H7rcQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2020-09-13 01:10:45</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="1Fn-2Xs1XsrpZvHEwK5QaQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-08-28 02:00:15</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="ipwlLlEdqmQDjSOkTZaSfg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-06-28 03:36:11</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="jkrruDmG-R2h3WcQDCRSDg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-07-30 01:52:17</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="4-YHO3Q7oRI0m2v06OaW0w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2017-07-27 02:54:31</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="6qG0SU478BzGsvVHEfFulw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2016-08-21 01:35:55</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="aKHJUBWI2nNhAc3khFC_6Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2020-10-31 11:47:04</data>
+</edge>
+<edge source="-reeXxeQfRSvO7NXOdgKcg" target="3WrcMEClSKMuqOssi7riAQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-10-23 03:23:37</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="pWzYkZBpRYN7jqRwQ4FxYQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2015-08-07 00:48:54</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="dXMzsNmjbhxlW8gXn-zq0A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2017-11-08 14:18:42</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="llJ9XnO_sWYSTb41bw7U1Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-10-11 22:52:11</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="T4I0JccMhA-KE61sWJJZ-w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2018-06-11 15:53:20</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="lnz3jx8VMz43iRqx2uLuhg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-09-25 04:00:34</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="Bf-RSrZwZQiAQtbdnXidZw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2018-02-27 23:02:50</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="7mOzCr3QRn4MZ_GOSlWl8w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-03-12 04:39:49</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="ThHkm0LPKefRsc5GIm-YsA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2017-09-05 09:13:12</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="iG7x_vN8tekDMVKdoaWNSQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2013-03-08 03:56:11</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="EpynunkUvrCYBN5r5zab5A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-07-26 07:05:41</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="NiYCDXrLLq_An10HNsCrGA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-11-30 13:04:44</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="4mkZsB3wSoUlvMlekl0U-Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2013-07-28 17:28:26</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="wIVlqNGx1bs4WPYJZ3b0mw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2017-06-04 05:41:40</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="Q4wGOnq55Jl_dFux9lkmRA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-06-17 08:32:24</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="6REOnLyOHjmrXaO_S5kZ9Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-10-21 07:57:11</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="d_i5EqXYcHtQ_xGhVheIdw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2017-09-14 15:51:12</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="b2tuB311MxU8LbSdnNDxvA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2016-06-05 06:05:00</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="Ra4lC6dpc_x9KCZ4u7uyvg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-03-21 06:20:29</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="yeU2BnMBl7Ih8U-iPxBtyA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2013-05-15 20:22:55</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="j6t777r9qYnlphoUWEa9JQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2016-10-03 13:59:42</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="j6t777r9qYnlphoUWEa9JQ" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2016-09-15 14:05:10</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="eHNs3djSmezhPe8EfCpLaA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-01-31 02:23:39</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="Y05wOg421D-jmX0HqunNNw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2016-07-10 18:30:01</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="tJmU_Yb_30joxvErlfFkBg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2019-03-11 20:58:20</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="_lem6JTiXUWzVUOURFKSwQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-02-11 00:58:40</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="-GjTujQD9mebr-EujVRk_w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-12-19 23:17:39</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="mKBl4fAqTfNts7B78aOPVg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2010-02-11 06:04:21</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="mKBl4fAqTfNts7B78aOPVg" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2013-09-30 17:43:18</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="B89lddkm4l4bz9n237XiHA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-04-06 02:36:06</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="B89lddkm4l4bz9n237XiHA" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-01-19 04:46:47</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="B89lddkm4l4bz9n237XiHA" id="2">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-05-28 03:41:14</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="I63rGHcrHekXEIN-ocn7fA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2014-07-21 08:21:05</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="vUlg5tcRua7Td8Xl9YyX9A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-08-30 02:18:08</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="vUlg5tcRua7Td8Xl9YyX9A" id="1">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2020-03-04 16:54:53</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="O4n72-x3WOv6eZOHuMujAA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2017-06-01 05:22:45</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="LwhiYyaoYyQGSpO9SC4rSw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2019-11-17 20:52:40</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="BoxvpYnoJCKIFBTOfZjewA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-08-19 01:39:29</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="XGO4R8pRtOTib4cnyZ0tnQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2020-08-16 02:27:43</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="7rRhks60F4QZYsRVDGGIXg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2018-02-21 03:10:39</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="3C_wWqdcKePtuFW2eiVq5w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2017-05-09 03:56:31</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="B5Dmwe_OATqGI-8G1-C1Ag" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">3.0</data>
+  <data key="review_date">2019-12-15 08:49:52</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="fHy398q677sn3CSBjkgS0Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-01-12 07:19:36</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="YwA1kYTqidSkH3pmhSk4ow" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-08-15 20:53:54</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="r-Gio4MUnKTKDOQ9fWFdmg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-02-17 22:32:40</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="L6rkvH8gM-aILh_cEjjQVg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-09-02 11:47:19</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="lJvYGgw4bNqsGSqrDXP5_A" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2016-07-04 23:07:05</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="tluCqIuc6y12FrP8kzrhMA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-10-31 02:45:04</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="qoD7_yMDKgfmn52Z_hc1Pw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2016-07-19 13:57:11</data>
+</edge>
+<edge source="JXYMkNxFKX6nZPs-b7rrQg" target="ieSyY4chb7mbEVFWqxOGBw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2019-03-24 11:29:07</data>
+</edge>
+<edge source="KupOvmT5lwDgWVz6cMefEQ" target="VMUi88s5yfzOj7tFLkcGxQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-12-01 22:39:36</data>
+</edge>
+<edge source="KupOvmT5lwDgWVz6cMefEQ" target="Ysvpdqo0GOSP2v-r7FosnQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">5.0</data>
+  <data key="review_date">2018-10-23 22:24:54</data>
+</edge>
+<edge source="KupOvmT5lwDgWVz6cMefEQ" target="OaEdRRNzPOrRyghbLEpRfg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-08-01 10:01:24</data>
+</edge>
+<edge source="KupOvmT5lwDgWVz6cMefEQ" target="F3d7OXJfrKjgnHIgL5z5Ig" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2018-05-12 15:40:52</data>
+</edge>
+<edge source="KupOvmT5lwDgWVz6cMefEQ" target="r6bCa03-qI03Lrh879LXFw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2018-12-14 18:57:02</data>
+</edge>
+<edge source="KupOvmT5lwDgWVz6cMefEQ" target="U8Y_MmC0CjZKHrfJbe_l0w" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2021-03-01 07:39:08</data>
+</edge>
+</graph></graphml>

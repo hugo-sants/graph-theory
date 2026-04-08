@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="review_date" for="edge" attr.name="review_date" attr.type="string" />
+<key id="review_stars" for="edge" attr.name="review_stars" attr.type="double" />
+<key id="type" for="edge" attr.name="type" attr.type="string" />
+<key id="yelping_since" for="node" attr.name="yelping_since" attr.type="string" />
+<key id="average_stars" for="node" attr.name="average_stars" attr.type="double" />
+<key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="hours" for="node" attr.name="hours" attr.type="string" />
+<key id="categories" for="node" attr.name="categories" attr.type="string" />
+<key id="attributes" for="node" attr.name="attributes" attr.type="string" />
+<key id="is_open" for="node" attr.name="is_open" attr.type="long" />
+<key id="review_count" for="node" attr.name="review_count" attr.type="long" />
+<key id="stars" for="node" attr.name="stars" attr.type="double" />
+<key id="longitude" for="node" attr.name="longitude" attr.type="double" />
+<key id="latitude" for="node" attr.name="latitude" attr.type="double" />
+<key id="postal_code" for="node" attr.name="postal_code" attr.type="string" />
+<key id="state" for="node" attr.name="state" attr.type="string" />
+<key id="city" for="node" attr.name="city" attr.type="string" />
+<key id="address" for="node" attr.name="address" attr.type="string" />
+<key id="name" for="node" attr.name="name" attr.type="string" />
+<key id="business_id" for="node" attr.name="business_id" attr.type="string" />
+<key id="type" for="node" attr.name="type" attr.type="string" />
+<graph edgedefault="undirected"><node id="E6rlbqtq5dDKeLQXJ7fEcw">
+  <data key="type">business</data>
+  <data key="business_id">E6rlbqtq5dDKeLQXJ7fEcw</data>
+  <data key="name">Pop's</data>
+  <data key="address">1403 Mississippi Ave</data>
+  <data key="city">E Saint Louis</data>
+  <data key="state">IL</data>
+  <data key="postal_code">62201</data>
+  <data key="latitude">38.6087962</data>
+  <data key="longitude">-90.1704805</data>
+  <data key="stars">2.0</data>
+  <data key="review_count">7</data>
+  <data key="is_open">1</data>
+  <data key="attributes">{'Ambience': "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}", 'Alcohol': "'full_bar'", 'NoiseLevel': "'loud'", 'BikeParking': 'True', 'RestaurantsPriceRange2': '3', 'RestaurantsGoodForGroups': 'True', 'BusinessAcceptsCreditCards': 'True', 'HasTV': 'True', 'OutdoorSeating': 'True', 'BusinessParking': "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"}</data>
+  <data key="categories">Bars, Nightlife</data>
+  <data key="hours" />
+  <data key="label">Pop's</data>
+</node>
+<node id="YdwdmAJxTxLwlzjntAiGcA">
+  <data key="type">user</data>
+  <data key="name">Joshua</data>
+  <data key="review_count">4</data>
+  <data key="average_stars">4.25</data>
+  <data key="yelping_since">2014-02-26 01:07:20</data>
+  <data key="label">Joshua</data>
+</node>
+<node id="47oIw-CN1guUKx2_vUdsgw">
+  <data key="type">user</data>
+  <data key="name">Stephanie</data>
+  <data key="review_count">706</data>
+  <data key="average_stars">3.82</data>
+  <data key="yelping_since">2008-02-12 04:04:05</data>
+  <data key="label">Stephanie</data>
+</node>
+<node id="yeU2BnMBl7Ih8U-iPxBtyA">
+  <data key="type">user</data>
+  <data key="name">Clay</data>
+  <data key="review_count">106</data>
+  <data key="average_stars">2.46</data>
+  <data key="yelping_since">2011-08-11 02:25:42</data>
+  <data key="label">Clay</data>
+</node>
+<node id="qWYEuBZP7av55tewg3PXKg">
+  <data key="type">user</data>
+  <data key="name">Mary Kate</data>
+  <data key="review_count">2360</data>
+  <data key="average_stars">3.85</data>
+  <data key="yelping_since">2010-06-04 02:31:49</data>
+  <data key="label">Mary Kate</data>
+</node>
+<node id="sxcLdfsvddvuC8w7tTv3pg">
+  <data key="type">user</data>
+  <data key="name">Chris</data>
+  <data key="review_count">1</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2015-09-02 00:06:33</data>
+  <data key="label">Chris</data>
+</node>
+<node id="cjXmjoOElB3MTyAhq9YE7Q">
+  <data key="type">user</data>
+  <data key="name">Amblessed</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">2.5</data>
+  <data key="yelping_since">2018-08-04 20:27:09</data>
+  <data key="label">Amblessed</data>
+</node>
+<node id="QZa0BWKJfnqGXuKQHcWzPQ">
+  <data key="type">user</data>
+  <data key="name">Teneja</data>
+  <data key="review_count">2</data>
+  <data key="average_stars">1.0</data>
+  <data key="yelping_since">2015-08-17 21:12:40</data>
+  <data key="label">Teneja</data>
+</node>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="YdwdmAJxTxLwlzjntAiGcA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">2.0</data>
+  <data key="review_date">2015-02-06 08:31:54</data>
+</edge>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="47oIw-CN1guUKx2_vUdsgw" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2011-12-06 16:21:18</data>
+</edge>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="yeU2BnMBl7Ih8U-iPxBtyA" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2013-05-15 20:21:07</data>
+</edge>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="qWYEuBZP7av55tewg3PXKg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">4.0</data>
+  <data key="review_date">2011-11-14 06:40:39</data>
+</edge>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="sxcLdfsvddvuC8w7tTv3pg" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2017-08-27 08:30:46</data>
+</edge>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="cjXmjoOElB3MTyAhq9YE7Q" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2020-01-01 12:17:19</data>
+</edge>
+<edge source="E6rlbqtq5dDKeLQXJ7fEcw" target="QZa0BWKJfnqGXuKQHcWzPQ" id="0">
+  <data key="type">review</data>
+  <data key="review_stars">1.0</data>
+  <data key="review_date">2015-08-17 21:16:04</data>
+</edge>
+</graph></graphml>
